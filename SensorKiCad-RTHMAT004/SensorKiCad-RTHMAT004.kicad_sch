@@ -3030,7 +3030,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c417b287-fd26-4861-8efa-b95f17f1c044")
 		(property "Reference" "J1"
