@@ -1865,6 +1865,12 @@
 		(uuid "2dc3b690-3ee6-47a0-9192-838b8071c81a")
 	)
 	(junction
+		(at 130.81 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "36c7b712-4c44-4910-81ee-05c2c8b07b19")
+	)
+	(junction
 		(at 172.72 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2025,12 +2031,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ddf7da45-afc5-4892-af24-9193b9b6b1b4")
-	)
-	(junction
-		(at 129.54 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eacace84-7f14-433a-b59d-9f05ef33f82e")
 	)
 	(junction
 		(at 123.19 105.41)
@@ -2656,6 +2656,16 @@
 	)
 	(wire
 		(pts
+			(xy 64.77 105.41) (xy 64.77 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "650b6db8-b1c9-465b-8b79-a7bf1d72e531")
+	)
+	(wire
+		(pts
 			(xy 237.49 31.75) (xy 250.19 31.75)
 		)
 		(stroke
@@ -2826,6 +2836,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 142.24) (xy 39.37 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bc55620-2d06-4f0a-8dc5-ded78227345c")
+	)
+	(wire
+		(pts
 			(xy 111.76 105.41) (xy 111.76 106.68)
 		)
 		(stroke
@@ -2883,6 +2903,16 @@
 			(type default)
 		)
 		(uuid "878a4e10-7888-46ea-8214-abb8518e3f44")
+	)
+	(wire
+		(pts
+			(xy 77.47 142.24) (xy 78.74 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89aa3999-9625-4c36-88af-bdb04f26c375")
 	)
 	(wire
 		(pts
@@ -3466,6 +3496,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 142.24) (xy 85.09 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f77e26e3-c15e-419a-9131-e918a992f2ac")
+	)
+	(wire
+		(pts
 			(xy 271.78 104.14) (xy 271.78 105.41)
 		)
 		(stroke
@@ -3661,7 +3701,7 @@
 		)
 		(uuid "60461c52-84e1-4808-a4ec-98a86e2348fc")
 	)
-	(label "PWM Left"
+	(label "PWM Right"
 		(at 198.12 130.81 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3793,7 +3833,7 @@
 		)
 		(uuid "cd583166-a515-4f40-86c8-9cb529d9549a")
 	)
-	(label "PWM Left"
+	(label "PWM Centre"
 		(at 110.49 132.08 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3815,7 +3855,7 @@
 		)
 		(uuid "dbf12509-4be1-4d48-80aa-4a3eb85d5eb1")
 	)
-	(label "PWM Left"
+	(label "PWM Centre"
 		(at 152.4 130.81 0)
 		(fields_autoplaced yes)
 		(effects
@@ -3826,7 +3866,7 @@
 		)
 		(uuid "eca4f8ed-5ae2-47ac-a407-e398efb9154a")
 	)
-	(label "PWM Left"
+	(label "PWM Right"
 		(at 243.84 130.81 0)
 		(fields_autoplaced yes)
 		(effects
@@ -4010,7 +4050,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "S5805"
+		(property "Value" "SS8050"
 			(at 182.88 132.0799 0)
 			(effects
 				(font
@@ -4019,7 +4059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-39-3"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 182.88 132.715 0)
 			(effects
 				(font
@@ -4337,7 +4377,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:2N2219")
-		(at 134.62 132.08 0)
+		(at 135.89 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4346,7 +4386,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ad0e0a4-602d-4c67-91dc-df1d24d5e73e")
 		(property "Reference" "Q3"
-			(at 139.7 130.8099 0)
+			(at 140.97 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4354,8 +4394,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "S5805"
-			(at 139.7 133.3499 0)
+		(property "Value" "SS8050"
+			(at 140.97 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4363,8 +4403,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-39-3"
-			(at 139.7 133.985 0)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 140.97 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4375,7 +4415,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF"
-			(at 134.62 132.08 0)
+			(at 135.89 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4385,7 +4425,7 @@
 			)
 		)
 		(property "Description" "800mA Ic, 50V Vce, NPN Transistor, TO-39"
-			(at 134.62 132.08 0)
+			(at 135.89 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4394,7 +4434,7 @@
 			)
 		)
 		(property "LCSC" "C2150"
-			(at 134.62 132.08 0)
+			(at 135.89 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5502,7 +5542,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_IRBlack"
+		(property "Footprint" "LED_THT:LED_SideEmitter_Rectangular_W4.5mm_H1.6mm"
 			(at 80.01 43.18 0)
 			(effects
 				(font
@@ -5858,7 +5898,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_IRBlack"
+		(property "Footprint" "LED_THT:LED_SideEmitter_Rectangular_W4.5mm_H1.6mm"
 			(at 130.81 43.18 0)
 			(effects
 				(font
@@ -6113,7 +6153,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "S5805"
+		(property "Value" "SS8050"
 			(at 228.6 132.0799 0)
 			(effects
 				(font
@@ -6122,7 +6162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-39-3"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 228.6 132.715 0)
 			(effects
 				(font
@@ -6738,7 +6778,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm_IRBlack"
+		(property "Footprint" "LED_THT:LED_SideEmitter_Rectangular_W4.5mm_H1.6mm"
 			(at 105.41 43.18 0)
 			(effects
 				(font
@@ -8878,7 +8918,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x14_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x14_P2.54mm_Vertical"
 			(at 255.27 41.91 0)
 			(effects
 				(font
@@ -9479,7 +9519,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "S5805"
+		(property "Value" "SS8050"
 			(at 95.25 133.3499 0)
 			(effects
 				(font
@@ -9488,7 +9528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-39-3"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 95.25 133.985 0)
 			(effects
 				(font
@@ -9540,6 +9580,74 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "Q2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:Jumper_2_Open")
+		(at 39.37 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9c8fb25-450e-4bde-a38a-a765e094a192")
+		(property "Reference" "JP1"
+			(at 39.37 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Jumper_2_Open"
+			(at 39.37 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 39.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 39.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Jumper, 2-pole, open"
+			(at 39.37 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d123289c-2a03-49a4-b23b-e12881dd2f71")
+		)
+		(pin "1"
+			(uuid "21b6b567-b3ad-4769-b0e6-d2048d7d3519")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "JP1")
 					(unit 1)
 				)
 			)
@@ -9631,7 +9739,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "S5805"
+		(property "Value" "SS8050"
 			(at 274.32 132.0799 0)
 			(effects
 				(font
@@ -9640,7 +9748,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-39-3"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 274.32 132.715 0)
 			(effects
 				(font
