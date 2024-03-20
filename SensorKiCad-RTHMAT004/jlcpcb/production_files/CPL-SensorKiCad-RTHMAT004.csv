@@ -1,8 +1,8 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 D1,SFH4544,LED_D3.0mm_IRBlack,30.0,-159.265,180.0,top
-D2,BPV22NF,LED_SideEmitter_Rectangular_W4.5mm_H1.6mm,102.75,-153.475,90.0,bottom
-D3,BPV22NF,LED_SideEmitter_Rectangular_W4.5mm_H1.6mm,67.5,-130.0,0.0,bottom
-D4,BPV22NF,LED_SideEmitter_Rectangular_W4.5mm_H1.6mm,32.0,-152.5,90.0,bottom
+D2,BPV22NF,LED_SideEmitter_Rectangular_W4.5mm_H1.6mm,102.75,-153.475,90.0,top
+D3,BPV22NF,LED_SideEmitter_Rectangular_W4.5mm_H1.6mm,67.5,-130.0,0.0,top
+D4,BPV22NF,LED_SideEmitter_Rectangular_W4.5mm_H1.6mm,32.0,-152.5,90.0,top
 D5,SFH4544,LED_D3.0mm_IRBlack,35.75,-147.725,90.0,top
 D6,SFH4544,LED_D3.0mm_IRBlack,61.485,-131.75,0.0,top
 D7,SFH4544,LED_D3.0mm_IRBlack,73.485,-131.75,0.0,top
@@ -45,6 +45,6 @@ R27,15,R_0815_2038Metric,99.0,-167.0625,-90.0,top
 R28,15,R_0815_2038Metric,105.0,-167.0625,-90.0,top
 R29,8.2,R_0815_2038Metric,92.5625,-159.5,0.0,top
 R30,21,R_0815_2038Metric,88.5625,-159.5,180.0,top
-R31,21,R_0815_2038Metric,65.5,-160.0,180.0,bottom
-R32,21,R_0815_2038Metric,67.5,-153.0,0.0,bottom
-R33,21,R_0815_2038Metric,69.75,-160.0,0.0,bottom
+R31,21,R_0815_2038Metric,65.5,-160.0,180.0,top
+R32,21,R_0815_2038Metric,67.5,-153.0,0.0,top
+R33,21,R_0815_2038Metric,69.75,-160.0,180.0,top

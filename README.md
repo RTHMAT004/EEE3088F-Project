@@ -9,4 +9,10 @@ Emitters:
 
 Sensors: 
 - SFH205F (OOS)
+- SFH213FA
 - BPV22NF
+
+Footing of the sensors not exactly the same. But pin width is the same.
+
+BJT:
+BCX41TA
