@@ -10,6 +10,433 @@
 		(rev "v0")
 	)
 	(lib_symbols
+		(symbol "BPV22NF:BPV22NF"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at -0.5588 4.4958 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "BPV22NF"
+				(at -1.016 -3.302 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "BPV22NF:XDCR_BPV22NF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Vishay Semiconductor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "8.90mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "Radial Vishay"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "1.9"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "BPV22NF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "\nPhotodiode 940nm - 120° Radial, Side View\n"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Vishay"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "BPV22NF_0_0"
+				(polyline
+					(pts
+						(xy 0 -1.524) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.524) (xy 0 -1.524)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.032) (xy 1.0922 2.9972)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.032) (xy 2.54 4.064)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.0668 2.2606) (xy 1.1938 2.2606)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.0922 2.9972) (xy 1.0668 2.2606)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.0922 2.9972) (xy 1.651 2.5146)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.4732 2.5908) (xy 1.2446 2.4384)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.651 2.5146) (xy 0.762 2.032)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.0066 1.9304) (xy 2.3368 2.8956)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.0066 1.9304) (xy 3.7846 3.9624)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.3114 2.159) (xy 2.4384 2.159)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.3368 2.8956) (xy 2.3114 2.159)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.3368 2.8956) (xy 2.8956 2.413)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0 1.524)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 1.524) (xy 2.54 -1.524)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.7178 2.4892) (xy 2.4892 2.3368)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.8956 2.413) (xy 2.0066 1.9304)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "A"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "K"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector:TestPoint"
 			(pin_numbers hide)
 			(pin_names
@@ -1005,14 +1432,14 @@
 				)
 			)
 		)
-		(symbol "Device:D_Photo"
-			(pin_numbers hide)
-			(pin_names hide)
+		(symbol "Device:Q_NPN_BEC"
+			(pin_names
+				(offset 0) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "D"
-				(at 0.508 1.778 0)
+			(property "Reference" "Q"
+				(at 5.08 1.27 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1020,16 +1447,17 @@
 					(justify left)
 				)
 			)
-			(property "Value" "D_Photo"
-				(at -1.016 -2.794 0)
+			(property "Value" "Q_NPN_BEC"
+				(at 5.08 -1.27 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
 			(property "Footprint" ""
-				(at -1.27 0 0)
+				(at 5.08 2.54 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1038,15 +1466,6 @@
 				)
 			)
 			(property "Datasheet" "~"
-				(at -1.27 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Photodiode"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1055,7 +1474,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "photodiode diode opto"
+			(property "Description" "NPN transistor, base/emitter/collector"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1064,73 +1483,69 @@
 					(hide yes)
 				)
 			)
-			(symbol "D_Photo_0_1"
+			(property "ki_keywords" "transistor NPN"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Q_NPN_BEC_0_1"
 				(polyline
 					(pts
-						(xy -2.54 1.27) (xy -2.54 -1.27)
+						(xy 0.635 0.635) (xy 2.54 2.54)
 					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 -0.635) (xy 2.54 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778) (xy 1.27 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.27 0)
+					(radius 2.8194)
 					(stroke
 						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.032 1.778) (xy -1.524 1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.508 3.302) (xy -2.032 1.778) (xy -2.032 2.286)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 1.27) (xy -2.54 0) (xy 0 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 3.302) (xy -0.762 1.778) (xy -0.762 2.286) (xy -0.762 1.778) (xy -0.254 1.778)
-					)
-					(stroke
-						(width 0)
 						(type default)
 					)
 					(fill
@@ -1138,11 +1553,11 @@
 					)
 				)
 			)
-			(symbol "D_Photo_1_1"
-				(pin passive line
+			(symbol "Q_NPN_BEC_1_1"
+				(pin input line
 					(at -5.08 0 0)
-					(length 2.54)
-					(name "K"
+					(length 5.715)
+					(name "B"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1158,9 +1573,9 @@
 					)
 				)
 				(pin passive line
-					(at 2.54 0 180)
+					(at 2.54 -5.08 90)
 					(length 2.54)
-					(name "A"
+					(name "E"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1168,6 +1583,24 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1479,49 +1912,42 @@
 				)
 			)
 		)
-		(symbol "LED:SFH4546"
-			(pin_numbers hide)
+		(symbol "SFH_4544:SFH_4544"
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "D"
-				(at 0.508 1.778 0)
+				(at -3.556 4.826 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
+					(justify left bottom)
 				)
 			)
-			(property "Value" "SFH4546"
-				(at -1.016 -2.794 0)
+			(property "Value" "SFH_4544"
+				(at -3.556 -3.302 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Footprint" "LED_THT:LED_D5.0mm_IRGrey"
-				(at 0 4.445 0)
+			(property "Footprint" "SFH_4544:DIO_SFH_4544"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "http://www.osram-os.com/Graphics/XPic1/00101982_0.pdf"
-				(at -1.27 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "High-Power IR LED 940nm"
+			(property "Datasheet" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -1530,7 +1956,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "IR LED"
+			(property "Description" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -1539,19 +1965,120 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "LED*5.0mm*IRGrey*"
+			(property "MF" "OSRAM Opto"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
-			(symbol "SFH4546_0_1"
+			(property "Description_1" "\nInfrared (IR) Emitter 940nm 1.6V 100mA 550mW/sr @ 100mA 20° Radial\n"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "Non-Standard OSRAM"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "1.3"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "SFH 4544"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "OSRAM"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "SFH_4544_0_0"
 				(polyline
 					(pts
-						(xy -2.54 1.27) (xy -2.54 -1.27)
+						(xy -2.54 -1.524) (xy 0 0)
 					)
 					(stroke
 						(width 0.254)
@@ -1563,10 +2090,10 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy -2.54 0)
+						(xy -2.54 0) (xy -5.08 0)
 					)
 					(stroke
-						(width 0)
+						(width 0.1524)
 						(type default)
 					)
 					(fill
@@ -1575,31 +2102,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0.381 3.175) (xy -0.127 3.175)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.143 1.651) (xy 0.381 3.175) (xy 0.381 2.667)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy -2.54 0) (xy 0 1.27) (xy 0 -1.27)
+						(xy -2.54 0) (xy -2.54 -1.524)
 					)
 					(stroke
 						(width 0.254)
@@ -1611,128 +2114,7 @@
 				)
 				(polyline
 					(pts
-						(xy -2.413 1.651) (xy -0.889 3.175) (xy -0.889 2.667) (xy -0.889 3.175) (xy -1.397 3.175)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SFH4546_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "SFH4546_1"
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "D"
-				(at 0.508 1.778 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "SFH4546"
-				(at -1.016 -2.794 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "LED_THT:LED_D5.0mm_IRGrey"
-				(at 0 4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.osram-os.com/Graphics/XPic1/00101982_0.pdf"
-				(at -1.27 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "High-Power IR LED 940nm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "IR LED"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "LED*5.0mm*IRGrey*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SFH4546_1_0_1"
-				(polyline
-					(pts
-						(xy -2.54 1.27) (xy -2.54 -1.27)
+						(xy -2.54 1.524) (xy -2.54 0)
 					)
 					(stroke
 						(width 0.254)
@@ -1744,43 +2126,7 @@
 				)
 				(polyline
 					(pts
-						(xy 0 0) (xy -2.54 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.381 3.175) (xy -0.127 3.175)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.143 1.651) (xy 0.381 3.175) (xy 0.381 2.667)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy -2.54 0) (xy 0 1.27) (xy 0 -1.27)
+						(xy -1.1176 3.683) (xy -0.2286 4.1656)
 					)
 					(stroke
 						(width 0.254)
@@ -1792,50 +2138,225 @@
 				)
 				(polyline
 					(pts
-						(xy -2.413 1.651) (xy -0.889 3.175) (xy -0.889 2.667) (xy -0.889 3.175) (xy -1.397 3.175)
+						(xy -0.9398 3.6068) (xy -0.7112 3.7592)
 					)
 					(stroke
-						(width 0)
+						(width 0.254)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-			)
-			(symbol "SFH4546_1_1_1"
+				(polyline
+					(pts
+						(xy -0.5588 3.2004) (xy -1.1176 3.683)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5588 3.2004) (xy -0.5334 3.937)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 3.937) (xy -0.6604 3.937)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.2286 4.1656) (xy -2.0066 2.1336)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.2286 4.1656) (xy -0.5588 3.2004)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy -2.54 1.524)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.524) (xy 0 -1.524)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.127 3.5814) (xy 1.016 4.064)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.3048 3.5052) (xy 0.5334 3.6576)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.6858 3.0988) (xy 0.127 3.5814)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.6858 3.0988) (xy 0.7112 3.8354)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.7112 3.8354) (xy 0.5842 3.8354)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 4.064) (xy -0.762 2.032)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 4.064) (xy 0.6858 3.0988)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "IR"
+					(at 1.016 2.032 0)
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+						(justify left bottom)
+					)
+				)
 				(pin passive line
-					(at -5.08 0 0)
+					(at -7.62 0 0)
 					(length 2.54)
-					(name "K"
+					(name "~"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "1"
+					(number "A"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
 				)
 				(pin passive line
-					(at 2.54 0 180)
-					(length 2.54)
-					(name "A"
+					(at 5.08 0 180)
+					(length 5.08)
+					(name "~"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "2"
+					(number "C"
 						(effects
 							(font
-								(size 1.27 1.27)
+								(size 1.016 1.016)
 							)
 						)
 					)
@@ -2022,196 +2543,6 @@
 				)
 			)
 		)
-		(symbol "Transistor_BJT:2N2219"
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "Q"
-				(at 5.08 1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "2N2219"
-				(at 5.08 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" "Package_TO_SOT_THT:TO-39-3"
-				(at 5.08 -1.905 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-						(italic yes)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-					(hide yes)
-				)
-			)
-			(property "Description" "800mA Ic, 50V Vce, NPN Transistor, TO-39"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "NPN Transistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "TO?39*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "2N2219_0_1"
-				(polyline
-					(pts
-						(xy 0.635 0.635) (xy 2.54 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.635 -0.635) (xy 2.54 -2.54) (xy 2.54 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.635 1.905) (xy 0.635 -1.905) (xy 0.635 -1.905)
-					)
-					(stroke
-						(width 0.508)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -1.778) (xy 1.778 -1.27) (xy 2.286 -2.286) (xy 1.27 -1.778) (xy 1.27 -1.778)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(circle
-					(center 1.27 0)
-					(radius 2.8194)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "2N2219_1_1"
-				(pin passive line
-					(at 2.54 -5.08 90)
-					(length 2.54)
-					(name "E"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 5.715)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 5.08 270)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers hide)
@@ -2310,22 +2641,28 @@
 		)
 	)
 	(junction
-		(at 67.31 137.16)
+		(at 91.44 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0b299707-8bb2-4d56-a0ea-1600a587eae4")
+		(uuid "04c08c63-000b-44b0-b807-7cb470770a09")
+	)
+	(junction
+		(at 83.82 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0a870c7f-7a9d-45e4-8995-0c9f21bcb5d9")
+	)
+	(junction
+		(at 66.04 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0e8e8ab9-57c6-4c38-aeb2-73126c5ab944")
 	)
 	(junction
 		(at 26.67 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "11c13ac5-cd84-4e61-b663-a98afc5aecbd")
-	)
-	(junction
-		(at 245.11 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "16ef959b-fa49-4b1e-b582-582fc896dedc")
 	)
 	(junction
 		(at 35.56 118.11)
@@ -2338,6 +2675,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1d90957d-d3e3-4a63-9618-1270cfe8d746")
+	)
+	(junction
+		(at 182.88 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f79355a-92b1-4efe-85bc-4b98c121461a")
 	)
 	(junction
 		(at 256.54 118.11)
@@ -2364,25 +2707,13 @@
 		(uuid "2f6f0566-442f-495d-940e-e6306b9bcc16")
 	)
 	(junction
-		(at 218.44 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2f7fc96b-9197-4848-83a1-d733a45f9f11")
-	)
-	(junction
 		(at 139.7 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a49ee5e-253d-4cfc-a5ef-4d5b8f42eef5")
 	)
 	(junction
-		(at 91.44 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3afa5879-c54a-4679-9c7e-5e8183092bb2")
-	)
-	(junction
-		(at 66.04 48.26)
+		(at 66.04 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "431b9437-1169-4659-9bff-3659ca32728c")
@@ -2394,7 +2725,7 @@
 		(uuid "47f13f5b-e309-44c6-b3fc-60b830e73a43")
 	)
 	(junction
-		(at 66.04 45.72)
+		(at 66.04 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5190b606-6556-4a9b-83ee-771ce26fdac7")
@@ -2406,34 +2737,28 @@
 		(uuid "5306c11b-8e0c-477d-94ec-f995ec05ccde")
 	)
 	(junction
-		(at 83.82 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "532a5214-fc3a-40e6-b04e-85272f3e4ef0")
-	)
-	(junction
 		(at 201.93 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5462ca1d-999f-443f-8d73-aad5c2476e7c")
 	)
 	(junction
-		(at 138.43 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "56d53f3c-6a1e-438f-9bf6-35669374f707")
-	)
-	(junction
-		(at 57.15 60.96)
+		(at 57.15 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58c099a2-52bc-475d-a910-c0bd9d9e1a45")
 	)
 	(junction
-		(at 226.06 118.11)
+		(at 138.43 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5a3f864d-028c-4480-9165-03047c1543ba")
+		(uuid "59f68ee3-00d7-4ac4-9d4a-9eedc55ae4bb")
+	)
+	(junction
+		(at 261.62 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b62591f-4dea-49dd-9ed5-14013e5c232e")
 	)
 	(junction
 		(at 102.87 46.99)
@@ -2466,16 +2791,16 @@
 		(uuid "723b8042-df05-49a2-a273-f9a7a231c11d")
 	)
 	(junction
-		(at 66.04 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "72d8b376-c18f-43c0-bcf4-1fff14b95545")
-	)
-	(junction
 		(at 213.36 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "76b2e29a-fb8f-47e6-bc1b-a57344bb197d")
+	)
+	(junction
+		(at 40.64 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "776f3846-10bd-44d1-bd58-5e313e56963d")
 	)
 	(junction
 		(at 170.18 118.11)
@@ -2490,6 +2815,12 @@
 		(uuid "7e084ba7-a5df-4d5e-a1ca-21f83bc10bbf")
 	)
 	(junction
+		(at 226.06 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ef0fe78-ed97-4d27-b173-32be2f5118e9")
+	)
+	(junction
 		(at 93.98 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2502,28 +2833,22 @@
 		(uuid "82d97a8a-87f7-408a-8bce-6e7d59a2a6fd")
 	)
 	(junction
-		(at 66.04 60.96)
+		(at 66.04 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "83d1ba27-530f-450f-bac0-c8d43c26e5e9")
+	)
+	(junction
+		(at 175.26 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b6011f6-e248-4893-b2ff-a2e6587d03d4")
 	)
 	(junction
 		(at 247.65 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8d0c2ae2-7fea-4dee-a7ad-c90d657b145d")
-	)
-	(junction
-		(at 40.64 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8d27fe65-81e4-44dc-8bc5-f8094e916454")
-	)
-	(junction
-		(at 48.26 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "927c1d42-c380-4de0-a55a-b622f4b20a12")
 	)
 	(junction
 		(at 132.08 49.53)
@@ -2550,13 +2875,7 @@
 		(uuid "a4590d0f-7c8b-4aa6-8d57-5c55eb20606e")
 	)
 	(junction
-		(at 130.81 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a67df835-5d7b-4966-9697-7dba11314019")
-	)
-	(junction
-		(at 57.15 48.26)
+		(at 57.15 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a8b94350-671c-470b-8e5a-cc50229a216d")
@@ -2566,6 +2885,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a944e79c-9a51-4165-8329-45be982f07e6")
+	)
+	(junction
+		(at 130.81 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad913685-8c35-473e-b9e6-09411d86eeb0")
 	)
 	(junction
 		(at 182.88 118.11)
@@ -2580,22 +2905,10 @@
 		(uuid "b154b6ef-7d9d-42ba-8f03-1f20586b65d9")
 	)
 	(junction
-		(at 175.26 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b53b0d26-504d-44bc-acfe-10d031bcb3c2")
-	)
-	(junction
 		(at 102.87 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be20cbc2-993d-4747-bf97-8ac06d1a9243")
-	)
-	(junction
-		(at 269.24 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c25f7bd2-6441-427c-8b3a-af57ccbea4d9")
 	)
 	(junction
 		(at 69.85 137.16)
@@ -2610,10 +2923,22 @@
 		(uuid "c86b6b30-ce84-467a-8fc7-617c6a6ffad4")
 	)
 	(junction
+		(at 269.24 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cbff6b2f-047a-4b86-8695-b407f2cf1bec")
+	)
+	(junction
 		(at 93.98 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cea6bef0-ccae-49b1-811c-bc5324504fc4")
+	)
+	(junction
+		(at 48.26 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cec09538-bb5b-48d8-a758-93a1a06c422f")
 	)
 	(junction
 		(at 91.44 100.33)
@@ -2652,10 +2977,16 @@
 		(uuid "e7364612-f589-4c97-83d8-f55927d9f018")
 	)
 	(junction
-		(at 261.62 137.16)
+		(at 218.44 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "fbad1665-1440-4b69-9307-f57927bb71b1")
+		(uuid "e9dcadc3-3bb2-4efe-919f-96c5a60fc179")
+	)
+	(junction
+		(at 226.06 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec41a925-c7cc-4804-b35b-42b3721b256f")
 	)
 	(junction
 		(at 102.87 49.53)
@@ -2735,7 +3066,17 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 60.96) (xy 66.04 69.85)
+			(xy 237.49 52.07) (xy 250.19 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0601b2f2-5d0b-42b3-bd6f-056ab78319a7")
+	)
+	(wire
+		(pts
+			(xy 66.04 62.23) (xy 66.04 71.12)
 		)
 		(stroke
 			(width 0)
@@ -2755,17 +3096,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 36.83) (xy 262.89 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "099ad67c-026a-461e-94f1-ce5bdc159b5e")
-	)
-	(wire
-		(pts
-			(xy 66.04 29.21) (xy 66.04 36.83)
+			(xy 66.04 30.48) (xy 66.04 33.02)
 		)
 		(stroke
 			(width 0)
@@ -2785,16 +3116,6 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 39.37) (xy 250.19 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d673de9-04c4-489b-9ebf-56d9c4386183")
-	)
-	(wire
-		(pts
 			(xy 201.93 137.16) (xy 204.47 137.16)
 		)
 		(stroke
@@ -2805,7 +3126,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 137.16) (xy 67.31 137.16)
+			(xy 58.42 137.16) (xy 69.85 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2852,16 +3173,6 @@
 			(type default)
 		)
 		(uuid "21138371-9b1c-4907-a789-687ce8546788")
-	)
-	(wire
-		(pts
-			(xy 138.43 116.84) (xy 138.43 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2137b1d7-7406-4b87-bfea-a5a3b79c5803")
 	)
 	(wire
 		(pts
@@ -2915,26 +3226,6 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 118.11) (xy 91.44 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28f729e8-f7e2-490d-b241-fa67fd38db5b")
-	)
-	(wire
-		(pts
-			(xy 91.44 132.08) (xy 91.44 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2933f948-912e-419a-821c-5daaca1ce22f")
-	)
-	(wire
-		(pts
 			(xy 161.29 147.32) (xy 161.29 137.16)
 		)
 		(stroke
@@ -2942,6 +3233,16 @@
 			(type default)
 		)
 		(uuid "29ec163c-9687-49db-94d7-f18faaaa2893")
+	)
+	(wire
+		(pts
+			(xy 138.43 116.84) (xy 138.43 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a3130c3-6e1d-4c32-8d46-3a252ad6dca8")
 	)
 	(wire
 		(pts
@@ -2995,7 +3296,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 137.16) (xy 245.11 137.16)
+			(xy 236.22 137.16) (xy 247.65 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3025,7 +3326,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 132.08) (xy 138.43 129.54)
+			(xy 138.43 132.08) (xy 138.43 130.81)
 		)
 		(stroke
 			(width 0)
@@ -3055,7 +3356,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 132.08) (xy 182.88 129.54)
+			(xy 182.88 132.08) (xy 182.88 130.81)
 		)
 		(stroke
 			(width 0)
@@ -3065,13 +3366,13 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 30.48) (xy 139.7 38.1)
+			(xy 237.49 59.69) (xy 250.19 59.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3fbf008a-ad44-4a21-91fe-9676e19c9827")
+		(uuid "4066d57c-9d53-40c4-bbc3-c81673f5afc8")
 	)
 	(wire
 		(pts
@@ -3085,16 +3386,6 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 137.16) (xy 247.65 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4265f6b1-e371-4350-8fab-a2963187f2fb")
-	)
-	(wire
-		(pts
 			(xy 138.43 109.22) (xy 138.43 111.76)
 		)
 		(stroke
@@ -3102,6 +3393,16 @@
 			(type default)
 		)
 		(uuid "42f24186-b118-4b67-8324-470545022fa1")
+	)
+	(wire
+		(pts
+			(xy 102.87 44.45) (xy 102.87 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44e35719-e55d-4dd9-8bc1-cb2dd655e1bf")
 	)
 	(wire
 		(pts
@@ -3115,6 +3416,16 @@
 	)
 	(wire
 		(pts
+			(xy 274.32 52.07) (xy 262.89 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "490b7233-14c1-4874-be60-bc91b8908afc")
+	)
+	(wire
+		(pts
 			(xy 256.54 100.33) (xy 256.54 101.6)
 		)
 		(stroke
@@ -3125,6 +3436,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 116.84) (xy 48.26 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4af93093-3e25-4ba3-94a8-337df7748aab")
+	)
+	(wire
+		(pts
 			(xy 48.26 97.79) (xy 48.26 100.33)
 		)
 		(stroke
@@ -3132,26 +3453,6 @@
 			(type default)
 		)
 		(uuid "4bebb844-667e-450d-a1ed-87d10047987c")
-	)
-	(wire
-		(pts
-			(xy 48.26 118.11) (xy 48.26 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c9d2b2b-2753-44e3-898b-256b6550dd91")
-	)
-	(wire
-		(pts
-			(xy 48.26 116.84) (xy 48.26 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4cfbd524-d4f8-4282-bc10-37af3d330e55")
 	)
 	(wire
 		(pts
@@ -3205,7 +3506,7 @@
 	)
 	(wire
 		(pts
-			(xy 269.24 132.08) (xy 269.24 129.54)
+			(xy 269.24 132.08) (xy 269.24 130.81)
 		)
 		(stroke
 			(width 0)
@@ -3232,6 +3533,16 @@
 			(type default)
 		)
 		(uuid "58c60a7f-ecb4-4ed3-8ba9-f9829fc8ae87")
+	)
+	(wire
+		(pts
+			(xy 274.32 44.45) (xy 262.89 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bbedc96-0235-4c34-a2dc-0d8935ec9ac0")
 	)
 	(wire
 		(pts
@@ -3305,7 +3616,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 44.45) (xy 66.04 45.72)
+			(xy 66.04 45.72) (xy 66.04 46.99)
 		)
 		(stroke
 			(width 0)
@@ -3335,17 +3646,17 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 118.11) (xy 138.43 121.92)
+			(xy 139.7 30.48) (xy 139.7 31.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6c9b313f-26f8-4cb8-9214-564d525c5df1")
+		(uuid "6ca9d6c0-21a9-43e4-945d-342792de3376")
 	)
 	(wire
 		(pts
-			(xy 49.53 60.96) (xy 57.15 60.96)
+			(xy 49.53 62.23) (xy 57.15 62.23)
 		)
 		(stroke
 			(width 0)
@@ -3365,7 +3676,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 132.08) (xy 226.06 129.54)
+			(xy 226.06 132.08) (xy 226.06 130.81)
 		)
 		(stroke
 			(width 0)
@@ -3375,7 +3686,17 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 26.67) (xy 262.89 26.67)
+			(xy 237.49 44.45) (xy 250.19 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f025ed9-cc13-446f-81f8-f459eb9e93d5")
+	)
+	(wire
+		(pts
+			(xy 274.32 26.67) (xy 262.89 26.67)
 		)
 		(stroke
 			(width 0)
@@ -3415,7 +3736,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 29.21) (xy 262.89 29.21)
+			(xy 274.32 29.21) (xy 262.89 29.21)
 		)
 		(stroke
 			(width 0)
@@ -3425,7 +3746,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 48.26) (xy 66.04 48.26)
+			(xy 57.15 49.53) (xy 66.04 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3465,33 +3786,13 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 45.72) (xy 72.39 45.72)
+			(xy 66.04 46.99) (xy 72.39 46.99)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "77274d87-588f-4660-8227-54d0407d071c")
-	)
-	(wire
-		(pts
-			(xy 274.32 39.37) (xy 262.89 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "784e9a6f-c888-4c80-935d-98d993413a49")
-	)
-	(wire
-		(pts
-			(xy 269.24 118.11) (xy 269.24 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "79a7b653-ea0d-4853-8ab1-0e6a308cc4a7")
 	)
 	(wire
 		(pts
@@ -3515,13 +3816,13 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 34.29) (xy 250.19 34.29)
+			(xy 182.88 130.81) (xy 182.88 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7ce59fa2-f27b-43c7-b3cd-32692cbc9e8a")
+		(uuid "7c8e4535-7de4-47b5-a9fd-f9ccd1831934")
 	)
 	(wire
 		(pts
@@ -3665,7 +3966,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 48.26) (xy 57.15 48.26)
+			(xy 49.53 49.53) (xy 57.15 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3692,6 +3993,36 @@
 			(type default)
 		)
 		(uuid "8fd29296-e4fa-4073-9468-28ffcc9211c2")
+	)
+	(wire
+		(pts
+			(xy 274.32 57.15) (xy 262.89 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90601fc4-8603-4d3b-8b2d-f186e81824b5")
+	)
+	(wire
+		(pts
+			(xy 237.49 41.91) (xy 250.19 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90834392-3551-492a-a8e9-5ee193d9bdfc")
+	)
+	(wire
+		(pts
+			(xy 91.44 130.81) (xy 91.44 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "930436a3-391e-40e8-9a44-0607a15e6615")
 	)
 	(wire
 		(pts
@@ -3775,16 +4106,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 45.72) (xy 139.7 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a6d1f82-5fe6-4ff0-8c55-f2b1c5f232df")
-	)
-	(wire
-		(pts
 			(xy 114.3 100.33) (xy 114.3 101.6)
 		)
 		(stroke
@@ -3825,26 +4146,6 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 137.16) (xy 69.85 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ddfc771-b11b-4a6a-839d-2c859b4a7d7a")
-	)
-	(wire
-		(pts
-			(xy 48.26 132.08) (xy 48.26 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a048dfb9-bab6-4ec0-8457-2f429c17b20f")
-	)
-	(wire
-		(pts
 			(xy 35.56 100.33) (xy 35.56 101.6)
 		)
 		(stroke
@@ -3872,6 +4173,26 @@
 			(type default)
 		)
 		(uuid "a21ad3aa-01f6-46fd-8b52-32908fd06f56")
+	)
+	(wire
+		(pts
+			(xy 139.7 45.72) (xy 139.7 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4b6fa53-2534-4b26-a992-74d4aa1ec833")
+	)
+	(wire
+		(pts
+			(xy 226.06 144.78) (xy 226.06 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a778363e-cb30-40b0-86ff-ebed98ef8196")
 	)
 	(wire
 		(pts
@@ -3922,6 +4243,16 @@
 			(type default)
 		)
 		(uuid "ab2d26de-4909-4dcd-9b60-ab6b86bc7301")
+	)
+	(wire
+		(pts
+			(xy 237.49 29.21) (xy 250.19 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac3bc712-ccef-48f4-b1a2-f274d55fde32")
 	)
 	(wire
 		(pts
@@ -3985,17 +4316,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 118.11) (xy 182.88 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9f0535b-4039-49c7-88db-060dbf6de7e2")
-	)
-	(wire
-		(pts
-			(xy 57.15 60.96) (xy 66.04 60.96)
+			(xy 57.15 62.23) (xy 66.04 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4095,6 +4416,26 @@
 	)
 	(wire
 		(pts
+			(xy 139.7 44.45) (xy 139.7 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9f080e3-f63a-4819-8a37-8ad380ae413c")
+	)
+	(wire
+		(pts
+			(xy 48.26 130.81) (xy 48.26 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca3de778-b689-4ff2-9a06-5871d0e3cb27")
+	)
+	(wire
+		(pts
 			(xy 125.73 109.22) (xy 125.73 111.76)
 		)
 		(stroke
@@ -4135,7 +4476,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 30.48) (xy 102.87 38.1)
+			(xy 102.87 30.48) (xy 102.87 31.75)
 		)
 		(stroke
 			(width 0)
@@ -4162,6 +4503,16 @@
 			(type default)
 		)
 		(uuid "df200672-b2ae-4718-ad34-600489591e16")
+	)
+	(wire
+		(pts
+			(xy 237.49 46.99) (xy 250.19 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df512a61-6614-491e-aebf-2fe9a86e38ed")
 	)
 	(wire
 		(pts
@@ -4215,7 +4566,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 146.05) (xy 226.06 142.24)
+			(xy 226.06 146.05) (xy 226.06 144.78)
 		)
 		(stroke
 			(width 0)
@@ -4255,7 +4606,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 45.72) (xy 66.04 48.26)
+			(xy 66.04 46.99) (xy 66.04 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4355,16 +4706,6 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 118.11) (xy 226.06 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fb562a66-18d2-4550-a0b6-ac321af415fe")
-	)
-	(wire
-		(pts
 			(xy 245.11 109.22) (xy 245.11 111.76)
 		)
 		(stroke
@@ -4429,6 +4770,17 @@
 		)
 		(uuid eca727b0-ee1c-4c40-857b-9577cbfccc48)
 	)
+	(label "GND"
+		(at 237.49 29.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "182f6dd3-e27a-406b-8954-5bf944d7bac9")
+	)
 	(label "PWM Right"
 		(at 236.22 137.16 0)
 		(fields_autoplaced yes)
@@ -4450,6 +4802,28 @@
 			(justify left bottom)
 		)
 		(uuid "1a70f731-80f5-4c21-9568-7090bf7d7f3e")
+	)
+	(label "GND"
+		(at 237.49 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1f99936f-e743-4bbe-99af-096c2749b68e")
+	)
+	(label "GND"
+		(at 237.49 44.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "244485de-38e8-4583-88ee-3fd3a3d1a612")
 	)
 	(label "BATT"
 		(at 139.7 30.48 0)
@@ -4496,7 +4870,7 @@
 		(uuid "4abefd30-c7b5-4a4f-a359-986f358b0ec6")
 	)
 	(label "3V3"
-		(at 267.97 26.67 180)
+		(at 274.32 26.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4506,19 +4880,8 @@
 		)
 		(uuid "4cc9e6fc-9f19-48a5-8df2-60991dded3c0")
 	)
-	(label "PWM Centre"
-		(at 274.32 36.83 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4f49e888-9d55-4d6a-af0c-4a9d3640c129")
-	)
 	(label "BATT"
-		(at 267.97 29.21 180)
+		(at 274.32 29.21 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4540,7 +4903,7 @@
 		(uuid "513f9a27-67f8-4c60-9220-cac4c6addf05")
 	)
 	(label "BATT"
-		(at 66.04 29.21 0)
+		(at 66.04 30.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4583,6 +4946,17 @@
 		)
 		(uuid "770614fd-4a2b-4f07-a28c-ef229af28c9c")
 	)
+	(label "PWM Centre"
+		(at 274.32 44.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "78b519d8-5a5b-4323-b265-b679592b63c9")
+	)
 	(label "BATT"
 		(at 91.44 97.79 0)
 		(fields_autoplaced yes)
@@ -4594,16 +4968,16 @@
 		)
 		(uuid "7a244808-6c07-4cd6-b9f6-de13cb418313")
 	)
-	(label "Signal Right"
-		(at 237.49 39.37 0)
+	(label "BATT"
+		(at 274.32 57.15 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
-		(uuid "82d295a6-e7c5-47c9-9564-9009d46238a6")
+		(uuid "7ba0de11-a7c3-4e62-a461-df99f3c05e8a")
 	)
 	(label "GND"
 		(at 237.49 36.83 0)
@@ -4628,7 +5002,7 @@
 		(uuid "9b30902d-6d76-4b25-8817-ca88394de952")
 	)
 	(label "Signal Left"
-		(at 72.39 45.72 0)
+		(at 72.39 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4639,7 +5013,7 @@
 		(uuid "9bec3eda-b1ee-4217-9bc6-20818aa0b762")
 	)
 	(label "PWM Right"
-		(at 274.32 39.37 180)
+		(at 274.32 52.07 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4647,7 +5021,18 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "aa3a05cb-c9a3-4f07-8c8f-5d06be6e8cad")
+		(uuid "ad09d5d6-e738-45d3-b3e9-5669ef868fba")
+	)
+	(label "GND"
+		(at 237.49 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b6cd3afd-0719-42d1-a7cb-a05b4e133f82")
 	)
 	(label "Signal Right"
 		(at 147.32 46.99 0)
@@ -4671,8 +5056,8 @@
 		)
 		(uuid "c1aae0b0-eb34-45e7-925c-3853d8a3e652")
 	)
-	(label "Signal Centre"
-		(at 237.49 34.29 0)
+	(label "Signal Right"
+		(at 237.49 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4680,7 +5065,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "ccdeb0b1-4bcf-41be-8a76-3dd441d5f2f6")
+		(uuid "c524bdac-e04a-4d33-b813-eacb89dda38a")
 	)
 	(label "PWM Centre"
 		(at 104.14 137.16 0)
@@ -4703,6 +5088,17 @@
 			(justify left bottom)
 		)
 		(uuid "eaf94050-255d-4987-9ff1-b39168a38e7a")
+	)
+	(label "Signal Centre"
+		(at 237.49 41.91 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fdb34a6f-5f03-45c6-8300-98a29684f782")
 	)
 	(label "BATT"
 		(at 269.24 97.79 0)
@@ -4800,91 +5196,6 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "R36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_BJT:2N2219")
-		(at 135.89 137.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "00d93d4e-9c3d-476e-8fa3-ca5f16af2b74")
-		(property "Reference" "Q3"
-			(at 140.97 135.8899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SS8050"
-			(at 140.97 138.4299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 140.97 139.065 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF"
-			(at 135.89 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "800mA Ic, 50V Vce, NPN Transistor, TO-39"
-			(at 135.89 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2150"
-			(at 135.89 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b0f1d8d8-7b06-47b2-95c6-4450c162ee53")
-		)
-		(pin "3"
-			(uuid "8fe11b12-b3bb-4a0a-869a-fbc4c0b6fada")
-		)
-		(pin "2"
-			(uuid "002b9854-80fb-4add-81c8-76769769264a")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -5196,72 +5507,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 245.11 137.16 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "06ed7e7a-8a36-4b96-a905-b5142a9fab63")
-		(property "Reference" "TP8"
-			(at 240.284 140.462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 237.49 143.002 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
-			(at 240.03 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 240.03 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 245.11 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1358475b-0960-442a-9b9e-77171d15ec35")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "TP8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 120.65 137.16 180)
 		(unit 1)
@@ -5333,7 +5578,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 57.15 50.8 0)
+		(at 57.15 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5342,7 +5587,7 @@
 		(fields_autoplaced yes)
 		(uuid "08ae5428-daa8-40b1-84e9-65c6312ad04f")
 		(property "Reference" "R34"
-			(at 59.69 49.5299 0)
+			(at 59.69 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5351,7 +5596,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 59.69 52.0699 0)
+			(at 59.69 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5360,7 +5605,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 57.15 50.8 0)
+			(at 57.15 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5369,7 +5614,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 50.8 0)
+			(at 57.15 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5378,7 +5623,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 57.15 50.8 0)
+			(at 57.15 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5387,7 +5632,7 @@
 			)
 		)
 		(property "LCSC" "C17901"
-			(at 57.15 50.8 0)
+			(at 57.15 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5405,91 +5650,6 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "R34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_BJT:2N2219")
-		(at 45.72 137.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "08d4ea74-e6ad-42ab-8cac-da9828c21168")
-		(property "Reference" "Q1"
-			(at 50.8 135.8899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SS8050"
-			(at 50.8 138.4299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 50.8 139.065 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF"
-			(at 45.72 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "800mA Ic, 50V Vce, NPN Transistor, TO-39"
-			(at 45.72 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2150"
-			(at 45.72 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5dc52047-cd07-4327-bfbd-a92f6d10f6df")
-		)
-		(pin "3"
-			(uuid "4ec82b88-c42a-4cd8-ae26-a814beba8d42")
-		)
-		(pin "2"
-			(uuid "fc193226-5b70-4b54-8903-35da8e9417d3")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -5638,16 +5798,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 49.53 50.8 0)
+		(lib_id "Device:Q_NPN_BEC")
+		(at 266.7 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "128be6fb-a370-4a55-9146-129f5ed94865")
-		(property "Reference" "R35"
-			(at 52.07 49.5299 0)
+		(fields_autoplaced yes)
+		(uuid "11417b72-9766-46dc-a7c8-40b23150c41b")
+		(property "Reference" "Q6"
+			(at 271.78 135.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5655,8 +5816,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
-			(at 52.07 52.0699 0)
+		(property "Value" "SS8050"
+			(at 271.78 138.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5664,8 +5825,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 49.53 50.8 0)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 271.78 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5674,7 +5835,88 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 50.8 0)
+			(at 266.7 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "NPN transistor, base/emitter/collector"
+			(at 266.7 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2150"
+			(at 266.7 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "ae49ce87-5b12-42f8-927d-7d6e65ae15fd")
+		)
+		(pin "1"
+			(uuid "8ceb8ef8-4ce2-4cac-8e01-127c5f8c768b")
+		)
+		(pin "2"
+			(uuid "70b1fb01-fd1b-438d-9074-6dd9c50dad84")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "Q6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 49.53 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "128be6fb-a370-4a55-9146-129f5ed94865")
+		(property "Reference" "R35"
+			(at 52.07 50.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1k"
+			(at 52.07 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 49.53 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 49.53 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5683,7 +5925,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 49.53 50.8 0)
+			(at 49.53 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5692,7 +5934,7 @@
 			)
 		)
 		(property "LCSC" "C4410"
-			(at 49.53 50.8 0)
+			(at 49.53 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6311,6 +6553,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Q_NPN_BEC")
+		(at 180.34 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "251059fb-3d6d-4116-bc69-19ff0a1610a0")
+		(property "Reference" "Q4"
+			(at 185.42 135.8899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SS8050"
+			(at 185.42 138.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 185.42 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 180.34 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "NPN transistor, base/emitter/collector"
+			(at 180.34 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2150"
+			(at 180.34 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "925b3d0b-aeae-4885-85c9-2d6757ab965c")
+		)
+		(pin "1"
+			(uuid "4917e850-40af-42aa-baf8-3ec2600419f7")
+		)
+		(pin "2"
+			(uuid "93b4b2e3-04b7-4d8d-a23a-ade3832dd8a3")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "Q4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 67.31 105.41 90)
@@ -6524,43 +6848,35 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SFH4546")
-		(at 138.43 124.46 90)
+		(lib_id "Device:Q_NPN_BEC")
+		(at 88.9 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "28875db6-7426-4b52-b02b-3871733aad08")
-		(property "Reference" "D6"
-			(at 140.97 124.3329 90)
+		(fields_autoplaced yes)
+		(uuid "293621ae-bccb-4526-8d62-0ccb65e3aa65")
+		(property "Reference" "Q2"
+			(at 93.98 135.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "SFH4544"
-			(at 140.97 127.508 90)
+		(property "Value" "SS8050"
+			(at 93.98 138.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack"
-			(at 133.985 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206101716_OSRAM-Opto-Semicon-SFH-4544_C2900370.pdf"
-			(at 138.43 125.73 0)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 93.98 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6568,8 +6884,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "High-Power IR LED 940nm"
-			(at 138.43 124.46 0)
+		(property "Datasheet" "~"
+			(at 88.9 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6577,8 +6893,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2900370"
-			(at 138.43 124.46 90)
+		(property "Description" "NPN transistor, base/emitter/collector"
+			(at 88.9 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6586,8 +6902,8 @@
 				(hide yes)
 			)
 		)
-		(property "Extended" "1"
-			(at 138.43 124.46 90)
+		(property "LCSC" "C2150"
+			(at 88.9 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6595,34 +6911,19 @@
 				(hide yes)
 			)
 		)
-		(property "Populate" "1"
-			(at 138.43 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.67"
-			(at 138.43 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e6902a44-9cac-4eae-9df3-883a8f622535")
+		(pin "3"
+			(uuid "0afa2cef-10c9-4787-9a2e-04566f2bac16")
 		)
 		(pin "1"
-			(uuid "885e3f0e-4ddd-4487-81f0-e97e7c7934da")
+			(uuid "d9e9974b-33f6-4ace-a94f-84e088cb9198")
+		)
+		(pin "2"
+			(uuid "c9cb2de8-656c-4b7b-a63b-b90cecfbadf4")
 		)
 		(instances
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "D6")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -7037,216 +7338,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D_Photo")
-		(at 66.04 41.91 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3f0c7d9e-8bb5-4c42-8227-e8a80942dc36")
-		(property "Reference" "D4"
-			(at 71.12 39.878 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BPV22NF"
-			(at 71.12 41.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_SideEmitter_Rectangular_W4.5mm_H1.6mm"
-			(at 66.04 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.04 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Photodiode"
-			(at 66.04 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C130226"
-			(at 66.04 41.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Extended" "1"
-			(at 66.04 41.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Populate" "1"
-			(at 66.04 41.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.48"
-			(at 66.04 41.91 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e1e998d3-cd1c-46ed-825c-3d236ca1819e")
-		)
-		(pin "2"
-			(uuid "136d1168-f485-46e2-b885-040666606949")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Photo")
-		(at 139.7 43.18 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "410ebb34-45b3-43c4-9391-86213cc588e6")
-		(property "Reference" "D2"
-			(at 144.78 41.148 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BPV22NF"
-			(at 144.78 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_SideEmitter_Rectangular_W4.5mm_H1.6mm"
-			(at 139.7 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 139.7 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Photodiode"
-			(at 139.7 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C130226"
-			(at 139.7 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Extended" "1"
-			(at 139.7 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Populate" "1"
-			(at 139.7 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.48"
-			(at 139.7 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fe7fef99-3a91-4fd9-ab86-2479a9bd2d60")
-		)
-		(pin "2"
-			(uuid "86c710aa-763f-419b-9cda-b1bc5060de82")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 132.08 52.07 0)
 		(unit 1)
@@ -7327,7 +7418,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 66.04 44.45 90)
+		(at 66.04 45.72 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7335,7 +7426,7 @@
 		(dnp no)
 		(uuid "4d8d1b31-8507-4d4c-b75e-a14921cd2bef")
 		(property "Reference" "TP1"
-			(at 60.96 39.37 90)
+			(at 57.658 42.164 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7343,7 +7434,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 60.452 41.91 90)
+			(at 57.404 44.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7351,7 +7442,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
-			(at 66.04 39.37 0)
+			(at 66.04 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7360,7 +7451,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 39.37 0)
+			(at 66.04 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7369,7 +7460,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 66.04 44.45 0)
+			(at 66.04 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7605,94 +7696,9 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:2N2219")
-		(at 266.7 137.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "505b0c9f-0ffc-4400-b7aa-35833ca0a159")
-		(property "Reference" "Q6"
-			(at 271.78 135.8899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SS8050"
-			(at 271.78 138.4299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 271.78 139.065 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF"
-			(at 266.7 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "800mA Ic, 50V Vce, NPN Transistor, TO-39"
-			(at 266.7 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2150"
-			(at 266.7 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b3938e4f-ae6a-470c-9c52-0df6adb0e4f8")
-		)
-		(pin "3"
-			(uuid "874be392-a8ba-427d-85a4-9bec44de6753")
-		)
-		(pin "2"
-			(uuid "41ff6b18-8371-45fb-a5ad-6f8f2c314564")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "Q6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 49.53 57.15 90)
+		(at 49.53 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7700,7 +7706,7 @@
 		(dnp no)
 		(uuid "50d3ec4f-9bdb-400b-86a6-4508cb3be3e2")
 		(property "Reference" "JP31"
-			(at 52.07 55.8799 0)
+			(at 52.07 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7709,7 +7715,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 46.228 46.99 0)
+			(at 46.228 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7719,7 +7725,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 49.53 57.15 0)
+			(at 49.53 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7728,7 +7734,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 57.15 0)
+			(at 49.53 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7737,7 +7743,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 49.53 57.15 0)
+			(at 49.53 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7755,111 +7761,6 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "JP31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LED:SFH4546")
-		(at 182.88 124.46 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "521b903e-57f0-44a1-ab60-214cce58ba69")
-		(property "Reference" "D7"
-			(at 185.42 124.3329 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SFH4544"
-			(at 185.42 127.508 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack"
-			(at 178.435 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206101716_OSRAM-Opto-Semicon-SFH-4544_C2900370.pdf"
-			(at 182.88 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "High-Power IR LED 940nm"
-			(at 182.88 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2900370"
-			(at 182.88 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Extended" "1"
-			(at 182.88 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Populate" "1"
-			(at 182.88 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.67"
-			(at 182.88 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f4df9f3b-2a36-4cd0-9a96-e288b068cc66")
-		)
-		(pin "1"
-			(uuid "0b067048-b048-4e84-b17a-93e57c76614d")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -8370,112 +8271,6 @@
 		)
 	)
 	(symbol
-		(lib_name "SFH4546_1")
-		(lib_id "LED:SFH4546")
-		(at 48.26 124.46 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6203c437-38f7-4239-ad06-75a8b8cfed4b")
-		(property "Reference" "D1"
-			(at 50.8 124.3329 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SFH4544"
-			(at 50.8 127.508 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack"
-			(at 43.815 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206101716_OSRAM-Opto-Semicon-SFH-4544_C2900370.pdf"
-			(at 48.26 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "High-Power IR LED 940nm"
-			(at 48.26 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2900370"
-			(at 48.26 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Extended" "1"
-			(at 48.26 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Populate" "1"
-			(at 48.26 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.67"
-			(at 48.26 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "78138d20-610b-46d6-98b6-9729120acaa4")
-		)
-		(pin "1"
-			(uuid "66b70ad0-abb0-46ee-9da0-503a724557f5")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 48.26 105.41 90)
 		(unit 1)
@@ -8540,6 +8335,206 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "JP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "BPV22NF:BPV22NF")
+		(at 102.87 39.37 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "63f31428-a7fc-4e8a-ad35-1c6b3eaaffd8")
+		(property "Reference" "D3"
+			(at 105.41 36.2076 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BPV22NF"
+			(at 105.41 38.7476 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "BPV22NF:XDCR_BPV22NF"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay Semiconductor"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "8.90mm"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Radial Vishay"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.9"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BPV22NF"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nPhotodiode 940nm - 120° Radial, Side View\n"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Vishay"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C130226"
+			(at 102.87 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "K"
+			(uuid "a2ac6e47-0cb4-4fe7-92fb-ea92e5841c7b")
+		)
+		(pin "A"
+			(uuid "0239c9a4-101c-4959-8b8c-900282f96444")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -8694,17 +8689,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:2N2219")
-		(at 223.52 137.16 0)
+		(lib_id "SFH_4544:SFH_4544")
+		(at 269.24 125.73 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "68bacac2-5377-457a-a727-b14cd069c5e6")
-		(property "Reference" "Q5"
-			(at 228.6 135.8899 0)
+		(uuid "684e12bc-7d19-47de-85da-6619a8564148")
+		(property "Reference" "D9"
+			(at 274.32 123.2286 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8712,8 +8707,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SS8050"
-			(at 228.6 138.4299 0)
+		(property "Value" "SFH_4544"
+			(at 274.32 125.7686 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8721,29 +8716,18 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 228.6 139.065 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF"
-			(at 223.52 137.16 0)
+		(property "Footprint" "SFH_4544:DIO_SFH_4544"
+			(at 269.24 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify bottom)
 				(hide yes)
 			)
 		)
-		(property "Description" "800mA Ic, 50V Vce, NPN Transistor, TO-39"
-			(at 223.52 137.16 0)
+		(property "Datasheet" ""
+			(at 269.24 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8751,8 +8735,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2150"
-			(at 223.52 137.16 0)
+		(property "Description" ""
+			(at 269.24 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8760,19 +8744,135 @@
 				(hide yes)
 			)
 		)
-		(pin "1"
-			(uuid "3d54398a-3dc1-454e-ba3e-6493aed49644")
+		(property "MF" "OSRAM Opto"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
 		)
-		(pin "3"
-			(uuid "9459e67f-9004-43cd-8762-4e1aab917aff")
+		(property "Description_1" "\nInfrared (IR) Emitter 940nm 1.6V 100mA 550mW/sr @ 100mA 20° Radial\n"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
 		)
-		(pin "2"
-			(uuid "31bacf4b-0f08-4f56-97a3-c2de7d8691a4")
+		(property "Package" "Non-Standard OSRAM"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=eda"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.3"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=snap"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SFH 4544"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "OSRAM"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2900370"
+			(at 269.24 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "fa42ebe4-66c5-474b-b3e3-f32ea557f1f3")
+		)
+		(pin "C"
+			(uuid "0dc2f250-c3ef-4994-a1dd-4416d72183a8")
 		)
 		(instances
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "Q5")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -8852,111 +8952,6 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "R16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Photo")
-		(at 102.87 43.18 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6a2cb4ee-896c-4956-99ff-9be6a61701ff")
-		(property "Reference" "D3"
-			(at 107.95 41.148 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BPV22NF"
-			(at 107.95 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_SideEmitter_Rectangular_W4.5mm_H1.6mm"
-			(at 102.87 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 102.87 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Photodiode"
-			(at 102.87 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C130226"
-			(at 102.87 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Extended" "1"
-			(at 102.87 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Populate" "1"
-			(at 102.87 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.48"
-			(at 102.87 43.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "faf8a374-fca6-4151-8eb3-91a208c5cc2c")
-		)
-		(pin "2"
-			(uuid "76fa849c-2b0b-48b7-aa84-752931d7f91b")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -9244,111 +9239,6 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SFH4546")
-		(at 269.24 124.46 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "77263430-1631-4983-8ae4-28115905afa9")
-		(property "Reference" "D9"
-			(at 271.78 124.3329 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SFH4544"
-			(at 271.78 127.508 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack"
-			(at 264.795 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206101716_OSRAM-Opto-Semicon-SFH-4544_C2900370.pdf"
-			(at 269.24 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "High-Power IR LED 940nm"
-			(at 269.24 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2900370"
-			(at 269.24 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Extended" "1"
-			(at 269.24 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Populate" "1"
-			(at 269.24 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.67"
-			(at 269.24 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c2c3d42e-3be2-4ba2-a56d-4a743bd4030c")
-		)
-		(pin "1"
-			(uuid "485d3665-5265-45ee-a117-b10dd9140ebb")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "D9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 139.7 52.07 0)
 		(unit 1)
@@ -9435,10 +9325,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7b479d3d-4ba2-46d3-8521-ab516af4379d")
 		(property "Reference" "TP2"
-			(at 99.568 40.64 90)
+			(at 94.996 41.148 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9446,7 +9335,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 99.568 43.18 90)
+			(at 94.996 43.688 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9573,7 +9462,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 66.04 50.8 0)
+		(at 66.04 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9582,7 +9471,7 @@
 		(fields_autoplaced yes)
 		(uuid "7ceb9e75-3fdc-485c-ad8e-e799b3fa2b24")
 		(property "Reference" "R31"
-			(at 68.58 49.5299 0)
+			(at 68.58 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9591,7 +9480,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 68.58 52.0699 0)
+			(at 68.58 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9600,7 +9489,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 66.04 50.8 0)
+			(at 66.04 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9609,7 +9498,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 50.8 0)
+			(at 66.04 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9618,7 +9507,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 66.04 50.8 0)
+			(at 66.04 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9627,7 +9516,7 @@
 			)
 		)
 		(property "LCSC" "C17901"
-			(at 66.04 50.8 0)
+			(at 66.04 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9783,6 +9672,196 @@
 		)
 	)
 	(symbol
+		(lib_id "SFH_4544:SFH_4544")
+		(at 182.88 125.73 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8658289b-cf0f-4025-9351-27bcb05cf501")
+		(property "Reference" "D7"
+			(at 187.96 123.2286 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SFH_4544"
+			(at 187.96 125.7686 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SFH_4544:DIO_SFH_4544"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "OSRAM Opto"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nInfrared (IR) Emitter 940nm 1.6V 100mA 550mW/sr @ 100mA 20° Radial\n"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Non-Standard OSRAM"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=eda"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.3"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=snap"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SFH 4544"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "OSRAM"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2900370"
+			(at 182.88 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "e1b0b1ef-39b8-4d22-952b-d5d8fbb99c6a")
+		)
+		(pin "C"
+			(uuid "49bfc0c7-fd6f-488b-97c6-a0b0ad58ef68")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 30.48 137.16 180)
 		(unit 1)
@@ -9847,6 +9926,70 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "JP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 226.06 144.78 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "920da07d-6025-498b-859b-1e2ce2497864")
+		(property "Reference" "TP5"
+			(at 234.442 148.336 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 234.696 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 226.06 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 226.06 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9a96f4c6-8ce8-45c3-8015-79367c651084")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -10300,34 +10443,45 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SFH4546")
-		(at 226.06 124.46 90)
+		(lib_id "SFH_4544:SFH_4544")
+		(at 48.26 125.73 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a860a66a-a068-4977-8dc0-fbcff4de5855")
-		(property "Reference" "D8"
-			(at 228.6 124.3329 90)
+		(fields_autoplaced yes)
+		(uuid "a1125e3f-eee5-4160-bb5e-12b5dba22ad3")
+		(property "Reference" "D1"
+			(at 53.34 123.2286 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "SFH4544"
-			(at 228.6 127.508 90)
+		(property "Value" "SFH_4544"
+			(at 53.34 125.7686 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack"
-			(at 221.615 124.46 0)
+		(property "Footprint" "SFH_4544:DIO_SFH_4544"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10335,8 +10489,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206101716_OSRAM-Opto-Semicon-SFH-4544_C2900370.pdf"
-			(at 226.06 125.73 0)
+		(property "Description" ""
+			(at 48.26 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10344,17 +10498,118 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "High-Power IR LED 940nm"
-			(at 226.06 124.46 0)
+		(property "MF" "OSRAM Opto"
+			(at 48.26 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nInfrared (IR) Emitter 940nm 1.6V 100mA 550mW/sr @ 100mA 20° Radial\n"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Non-Standard OSRAM"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=eda"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.3"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=snap"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SFH 4544"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "OSRAM"
+			(at 48.26 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
 		(property "LCSC" "C2900370"
-			(at 226.06 124.46 90)
+			(at 48.26 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10362,43 +10617,98 @@
 				(hide yes)
 			)
 		)
-		(property "Extended" "1"
-			(at 226.06 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "A"
+			(uuid "47ad2570-f0f4-42bd-94f8-4aa83e8fd35c")
 		)
-		(property "Populate" "1"
-			(at 226.06 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.67"
-			(at 226.06 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cdb712bf-8aec-47c7-a620-36253f84fac1")
-		)
-		(pin "1"
-			(uuid "3f102c87-55ad-42e0-944b-8e7081c53b55")
+		(pin "C"
+			(uuid "c08d579e-674f-46c7-96c2-d3b810b2f444")
 		)
 		(instances
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "D8")
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Q_NPN_BEC")
+		(at 223.52 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a9dbd3fa-6b38-4827-8d4b-07a9e8409253")
+		(property "Reference" "Q5"
+			(at 228.6 135.8899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SS8050"
+			(at 228.6 138.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 228.6 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 223.52 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "NPN transistor, base/emitter/collector"
+			(at 223.52 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2150"
+			(at 223.52 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "f9878653-740c-4816-8077-31ef14f0737c")
+		)
+		(pin "1"
+			(uuid "e78a3181-b5a4-4867-95f9-049263b7df95")
+		)
+		(pin "2"
+			(uuid "ffbc768c-6aba-4754-885d-6f0679deebee")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -10478,6 +10788,196 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SFH_4544:SFH_4544")
+		(at 226.06 125.73 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ac4de593-dd3b-4dc4-bec5-16e420c6daa8")
+		(property "Reference" "D8"
+			(at 231.14 123.2286 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SFH_4544"
+			(at 231.14 125.7686 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SFH_4544:DIO_SFH_4544"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "OSRAM Opto"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nInfrared (IR) Emitter 940nm 1.6V 100mA 550mW/sr @ 100mA 20° Radial\n"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Non-Standard OSRAM"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=eda"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.3"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=snap"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SFH 4544"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "OSRAM"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2900370"
+			(at 226.06 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "57ebb0e2-81c1-4b06-9b81-13e6a88f3c1d")
+		)
+		(pin "C"
+			(uuid "72bc20f9-5e82-41f2-8bd4-fd8e055e6da7")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -10701,91 +11201,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Transistor_BJT:2N2219")
-		(at 180.34 137.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b49b39dd-184e-4ba2-88ec-2746170560e0")
-		(property "Reference" "Q4"
-			(at 185.42 135.8899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SS8050"
-			(at 185.42 138.4299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 185.42 139.065 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF"
-			(at 180.34 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "800mA Ic, 50V Vce, NPN Transistor, TO-39"
-			(at 180.34 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2150"
-			(at 180.34 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f43a8ab9-7f83-40f1-baf6-2989ad4c07ca")
-		)
-		(pin "3"
-			(uuid "ef44211e-2abc-4b06-84d5-9a7cc84be270")
-		)
-		(pin "2"
-			(uuid "c7ea8a27-c91d-4353-b4fa-a4fd0a7600e4")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "Q4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 256.54 105.41 90)
 		(unit 1)
@@ -10928,7 +11343,7 @@
 	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 66.04 57.15 90)
+		(at 66.04 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10936,7 +11351,7 @@
 		(dnp no)
 		(uuid "b710c6f1-90fa-49a5-b858-2c1d8a8ad4ba")
 		(property "Reference" "JP33"
-			(at 69.088 55.88 0)
+			(at 69.088 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10945,7 +11360,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 62.738 46.99 0)
+			(at 62.738 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10955,7 +11370,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 66.04 57.15 0)
+			(at 66.04 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10964,7 +11379,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 57.15 0)
+			(at 66.04 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10973,7 +11388,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 66.04 57.15 0)
+			(at 66.04 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11063,6 +11478,196 @@
 		)
 	)
 	(symbol
+		(lib_id "SFH_4544:SFH_4544")
+		(at 91.44 125.73 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b8df641b-2d36-4269-97e6-7570f29ca80e")
+		(property "Reference" "D5"
+			(at 96.52 123.2286 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SFH_4544"
+			(at 96.52 125.7686 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SFH_4544:DIO_SFH_4544"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "OSRAM Opto"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nInfrared (IR) Emitter 940nm 1.6V 100mA 550mW/sr @ 100mA 20° Radial\n"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Non-Standard OSRAM"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=eda"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.3"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=snap"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SFH 4544"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "OSRAM"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2900370"
+			(at 91.44 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "565b9576-0d85-4af9-a588-adabf59241b7")
+		)
+		(pin "C"
+			(uuid "d5dab2bf-e7e6-40ff-9c68-6da17118560f")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 257.81 137.16 90)
 		(unit 1)
@@ -11140,16 +11745,17 @@
 		)
 	)
 	(symbol
-		(lib_id "LED:SFH4546")
-		(at 91.44 124.46 90)
+		(lib_id "BPV22NF:BPV22NF")
+		(at 139.7 39.37 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "ccf67545-2043-4ef5-893f-5c3988974d20")
-		(property "Reference" "D5"
-			(at 93.98 124.3329 90)
+		(fields_autoplaced yes)
+		(uuid "bc17dfe4-f526-4588-90bd-6bb6bc991bca")
+		(property "Reference" "D2"
+			(at 142.24 36.2076 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11157,8 +11763,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SFH4544"
-			(at 93.98 127.508 90)
+		(property "Value" "BPV22NF"
+			(at 142.24 38.7476 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11166,8 +11772,18 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack"
-			(at 86.995 124.46 0)
+		(property "Footprint" "BPV22NF:XDCR_BPV22NF"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11175,8 +11791,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206101716_OSRAM-Opto-Semicon-SFH-4544_C2900370.pdf"
-			(at 91.44 125.73 0)
+		(property "Description" ""
+			(at 139.7 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11184,8 +11800,128 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "High-Power IR LED 940nm"
-			(at 91.44 124.46 0)
+		(property "MF" "Vishay Semiconductor"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "8.90mm"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Radial Vishay"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.9"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BPV22NF"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nPhotodiode 940nm - 120° Radial, Side View\n"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Vishay"
+			(at 139.7 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C130226"
+			(at 139.7 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11193,52 +11929,298 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2900370"
-			(at 91.44 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
+		(pin "K"
+			(uuid "bafb6de8-15f7-4e24-b526-75fcc22ddd68")
 		)
-		(property "Extended" "1"
-			(at 91.44 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Populate" "1"
-			(at 91.44 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.67"
-			(at 91.44 124.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "75d1edfd-e966-406e-8f6c-3416617a1de8")
-		)
-		(pin "1"
-			(uuid "cefcbd43-4a90-4a1c-829a-2a4d764f5517")
+		(pin "A"
+			(uuid "37e6905a-3027-4903-8402-a8b010630197")
 		)
 		(instances
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "D5")
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Q_NPN_BEC")
+		(at 45.72 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c76c2ad4-f545-4121-a796-a20d764fbefc")
+		(property "Reference" "Q1"
+			(at 50.8 135.8899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SS8050"
+			(at 50.8 138.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 50.8 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "NPN transistor, base/emitter/collector"
+			(at 45.72 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2150"
+			(at 45.72 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "0926a1af-6ff2-47c0-a32a-13c544153983")
+		)
+		(pin "1"
+			(uuid "9b3e7c1a-ba3e-4fca-87fd-a946e5bcf386")
+		)
+		(pin "2"
+			(uuid "d891b54a-3210-48f5-9d3a-250fa4df6b04")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "BPV22NF:BPV22NF")
+		(at 66.04 40.64 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c86f14e9-3b5c-42ad-b089-19fad9cfdd67")
+		(property "Reference" "D4"
+			(at 68.58 37.4776 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BPV22NF"
+			(at 68.58 40.0176 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "BPV22NF:XDCR_BPV22NF"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay Semiconductor"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "8.90mm"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Radial Vishay"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.9"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BPV22NF"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nPhotodiode 940nm - 120° Radial, Side View\n"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Vishay"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C130226"
+			(at 66.04 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "K"
+			(uuid "3aa20d43-734c-45c0-b800-358001181f85")
+		)
+		(pin "A"
+			(uuid "50870dc2-acb4-4367-b848-bb5eca147589")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -11247,7 +12229,7 @@
 	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 57.15 57.15 90)
+		(at 57.15 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11255,7 +12237,7 @@
 		(dnp no)
 		(uuid "cd72f665-0670-4d84-b24e-79a4c8a99b3c")
 		(property "Reference" "JP32"
-			(at 59.69 55.8799 0)
+			(at 59.69 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11264,7 +12246,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 53.848 46.99 0)
+			(at 53.848 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11274,7 +12256,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 57.15 57.15 0)
+			(at 57.15 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11283,7 +12265,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 57.15 0)
+			(at 57.15 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11292,7 +12274,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 57.15 57.15 0)
+			(at 57.15 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11310,6 +12292,88 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "JP32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Q_NPN_BEC")
+		(at 135.89 137.16 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d14a05a0-e04e-4d1a-afe3-3ed3971047d1")
+		(property "Reference" "Q3"
+			(at 140.97 135.8899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SS8050"
+			(at 140.97 138.4299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 140.97 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "NPN transistor, base/emitter/collector"
+			(at 135.89 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2150"
+			(at 135.89 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "443d643e-2c12-44a1-9088-ed5abb3e4092")
+		)
+		(pin "1"
+			(uuid "53214d5e-627c-43b5-9019-f255d2ed1066")
+		)
+		(pin "2"
+			(uuid "c3b1d5d0-a663-4cfb-83aa-81a24ea00d4e")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -11394,7 +12458,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 66.04 69.85 0)
+		(at 66.04 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11403,7 +12467,7 @@
 		(fields_autoplaced yes)
 		(uuid "d7a7d079-a248-461d-923c-039c846d51e4")
 		(property "Reference" "#PWR04"
-			(at 66.04 76.2 0)
+			(at 66.04 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11412,7 +12476,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 66.04 74.93 0)
+			(at 66.04 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11420,7 +12484,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 69.85 0)
+			(at 66.04 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11429,7 +12493,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 69.85 0)
+			(at 66.04 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11438,7 +12502,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 66.04 69.85 0)
+			(at 66.04 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12197,6 +13261,196 @@
 		)
 	)
 	(symbol
+		(lib_id "SFH_4544:SFH_4544")
+		(at 138.43 125.73 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e56df6ae-bbeb-46e9-9b32-5be586327543")
+		(property "Reference" "D6"
+			(at 143.51 123.2286 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SFH_4544"
+			(at 143.51 125.7686 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SFH_4544:DIO_SFH_4544"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "OSRAM Opto"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nInfrared (IR) Emitter 940nm 1.6V 100mA 550mW/sr @ 100mA 20° Radial\n"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Non-Standard OSRAM"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=eda"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.3"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SFH%204544/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=snap"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SFH 4544"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "OSRAM"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2900370"
+			(at 138.43 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A"
+			(uuid "25c8bedf-9848-46f6-b038-1e3f0ff58208")
+		)
+		(pin "C"
+			(uuid "b6bcab85-aae3-4943-92d3-bd3cc4a4d837")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_02x14_Odd_Even")
 		(at 255.27 41.91 0)
 		(unit 1)
@@ -12422,72 +13676,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 67.31 137.16 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e8c000c7-f803-42be-89a6-27b7f9a98b69")
-		(property "Reference" "TP5"
-			(at 62.484 140.462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 59.69 143.002 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
-			(at 62.23 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 67.31 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "003540ba-7cb0-4efd-87ac-de7c8996226e")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "TP5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 35.56 114.3 0)
 		(unit 1)
@@ -12574,10 +13762,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e8d93716-9fde-43d3-a1e3-7581a5969378")
 		(property "Reference" "TP3"
-			(at 136.398 40.64 90)
+			(at 131.826 41.148 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12585,7 +13772,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 136.398 43.18 90)
+			(at 131.572 43.434 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12696,91 +13883,6 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "JP23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Transistor_BJT:2N2219")
-		(at 88.9 137.16 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eb3d96ce-0a4d-4ab5-81c7-447ccc38df76")
-		(property "Reference" "Q2"
-			(at 93.98 135.8899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SS8050"
-			(at 93.98 138.4299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 93.98 139.065 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/2N2219-D.PDF"
-			(at 88.9 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Description" "800mA Ic, 50V Vce, NPN Transistor, TO-39"
-			(at 88.9 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2150"
-			(at 88.9 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d42f5199-1e51-4771-83bf-9c41eb36f942")
-		)
-		(pin "3"
-			(uuid "63596283-4904-4ed9-9c32-b405ae15aa7b")
-		)
-		(pin "2"
-			(uuid "e4390459-1619-48f3-b963-fab1df47e0c3")
-		)
-		(instances
-			(project "SensorKiCad-RTHMAT004"
-				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "Q2")
 					(unit 1)
 				)
 			)
