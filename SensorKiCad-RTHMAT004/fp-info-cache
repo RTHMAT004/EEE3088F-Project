@@ -1,4 +1,4 @@
-23042873034385351
+23044584232676640
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87076,6 +87076,13 @@ SFH_4544
 DIO_SFH_4544
 
 
+0
+2
+2
+SFH_4544
+LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack_JLCPCB
+LED, diameter 5.0mm z-position of LED center 3.0mm, 2 pins
+LED diameter 5.0mm z-position of LED center 3.0mm 2 pins
 0
 2
 2

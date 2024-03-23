@@ -2653,7 +2653,7 @@
 		(uuid "0a870c7f-7a9d-45e4-8995-0c9f21bcb5d9")
 	)
 	(junction
-		(at 66.04 45.72)
+		(at 48.26 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0e8e8ab9-57c6-4c38-aeb2-73126c5ab944")
@@ -2701,19 +2701,25 @@
 		(uuid "270c526f-9e57-4f04-af8a-19e8415e72dd")
 	)
 	(junction
-		(at 139.7 49.53)
+		(at 121.92 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2f6f0566-442f-495d-940e-e6306b9bcc16")
 	)
 	(junction
-		(at 139.7 62.23)
+		(at 48.26 130.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "361bc7a4-7390-4ec1-bf3a-1257f85f26f2")
+	)
+	(junction
+		(at 121.92 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a49ee5e-253d-4cfc-a5ef-4d5b8f42eef5")
 	)
 	(junction
-		(at 66.04 49.53)
+		(at 48.26 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "431b9437-1169-4659-9bff-3659ca32728c")
@@ -2725,7 +2731,7 @@
 		(uuid "47f13f5b-e309-44c6-b3fc-60b830e73a43")
 	)
 	(junction
-		(at 66.04 46.99)
+		(at 48.26 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5190b606-6556-4a9b-83ee-771ce26fdac7")
@@ -2743,7 +2749,7 @@
 		(uuid "5462ca1d-999f-443f-8d73-aad5c2476e7c")
 	)
 	(junction
-		(at 57.15 62.23)
+		(at 39.37 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58c099a2-52bc-475d-a910-c0bd9d9e1a45")
@@ -2761,7 +2767,7 @@
 		(uuid "5b62591f-4dea-49dd-9ed5-14013e5c232e")
 	)
 	(junction
-		(at 102.87 46.99)
+		(at 85.09 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "66c99445-899c-4e2b-b2d3-da763f6c358d")
@@ -2773,7 +2779,7 @@
 		(uuid "686a2cea-c1d3-4cd3-b8d2-3495f25c77ae")
 	)
 	(junction
-		(at 102.87 62.23)
+		(at 85.09 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6aa7fe32-7f6e-454d-91b8-3f62b4526e87")
@@ -2809,7 +2815,7 @@
 		(uuid "7a18347b-e44e-4cd1-b8b7-8a18239af144")
 	)
 	(junction
-		(at 139.7 46.99)
+		(at 121.92 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7e084ba7-a5df-4d5e-a1ca-21f83bc10bbf")
@@ -2821,19 +2827,19 @@
 		(uuid "7ef0fe78-ed97-4d27-b173-32be2f5118e9")
 	)
 	(junction
-		(at 93.98 49.53)
+		(at 76.2 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f47fa41-df76-48f6-9ed7-97588b091c01")
 	)
 	(junction
-		(at 132.08 62.23)
+		(at 114.3 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "82d97a8a-87f7-408a-8bce-6e7d59a2a6fd")
 	)
 	(junction
-		(at 66.04 62.23)
+		(at 48.26 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "83d1ba27-530f-450f-bac0-c8d43c26e5e9")
@@ -2851,7 +2857,7 @@
 		(uuid "8d0c2ae2-7fea-4dee-a7ad-c90d657b145d")
 	)
 	(junction
-		(at 132.08 49.53)
+		(at 114.3 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "953c19eb-861d-46cb-973a-cb78f54f6247")
@@ -2875,7 +2881,7 @@
 		(uuid "a4590d0f-7c8b-4aa6-8d57-5c55eb20606e")
 	)
 	(junction
-		(at 57.15 49.53)
+		(at 39.37 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a8b94350-671c-470b-8e5a-cc50229a216d")
@@ -2905,7 +2911,7 @@
 		(uuid "b154b6ef-7d9d-42ba-8f03-1f20586b65d9")
 	)
 	(junction
-		(at 102.87 45.72)
+		(at 85.09 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "be20cbc2-993d-4747-bf97-8ac06d1a9243")
@@ -2929,7 +2935,7 @@
 		(uuid "cbff6b2f-047a-4b86-8695-b407f2cf1bec")
 	)
 	(junction
-		(at 93.98 62.23)
+		(at 76.2 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cea6bef0-ccae-49b1-811c-bc5324504fc4")
@@ -2959,7 +2965,7 @@
 		(uuid "e372b31c-05b5-490d-8a46-31d6342d3a85")
 	)
 	(junction
-		(at 139.7 45.72)
+		(at 121.92 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e42e0101-b297-4fd9-a746-28f9e5e4646f")
@@ -2989,7 +2995,7 @@
 		(uuid "ec41a925-c7cc-4804-b35b-42b3721b256f")
 	)
 	(junction
-		(at 102.87 49.53)
+		(at 85.09 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fce65c2f-fb91-402b-83ef-3ac752f63bb2")
@@ -3056,7 +3062,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 62.23) (xy 102.87 71.12)
+			(xy 85.09 62.23) (xy 85.09 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3066,17 +3072,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 52.07) (xy 250.19 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0601b2f2-5d0b-42b3-bd6f-056ab78319a7")
-	)
-	(wire
-		(pts
-			(xy 66.04 62.23) (xy 66.04 71.12)
+			(xy 48.26 62.23) (xy 48.26 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3086,7 +3082,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 62.23) (xy 93.98 62.23)
+			(xy 67.31 62.23) (xy 76.2 62.23)
 		)
 		(stroke
 			(width 0)
@@ -3096,7 +3092,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 30.48) (xy 66.04 33.02)
+			(xy 48.26 30.48) (xy 48.26 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3336,7 +3332,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 46.99) (xy 147.32 46.99)
+			(xy 121.92 46.99) (xy 129.54 46.99)
 		)
 		(stroke
 			(width 0)
@@ -3366,7 +3362,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 59.69) (xy 250.19 59.69)
+			(xy 219.71 69.85) (xy 232.41 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3396,7 +3392,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 44.45) (xy 102.87 45.72)
+			(xy 85.09 44.45) (xy 85.09 45.72)
 		)
 		(stroke
 			(width 0)
@@ -3416,7 +3412,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 52.07) (xy 262.89 52.07)
+			(xy 256.54 62.23) (xy 245.11 62.23)
 		)
 		(stroke
 			(width 0)
@@ -3536,23 +3532,13 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 44.45) (xy 262.89 44.45)
+			(xy 256.54 54.61) (xy 245.11 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "5bbedc96-0235-4c34-a2dc-0d8935ec9ac0")
-	)
-	(wire
-		(pts
-			(xy 48.26 146.05) (xy 48.26 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5bdb1023-b709-4b2e-9113-974042267e46")
 	)
 	(wire
 		(pts
@@ -3586,6 +3572,16 @@
 	)
 	(wire
 		(pts
+			(xy 219.71 39.37) (xy 232.41 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e237dc5-174d-41f6-ada9-2b47f7b83e75")
+	)
+	(wire
+		(pts
 			(xy 213.36 118.11) (xy 226.06 118.11)
 		)
 		(stroke
@@ -3606,7 +3602,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 31.75) (xy 250.19 31.75)
+			(xy 219.71 41.91) (xy 232.41 41.91)
 		)
 		(stroke
 			(width 0)
@@ -3616,7 +3612,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 45.72) (xy 66.04 46.99)
+			(xy 48.26 45.72) (xy 48.26 46.99)
 		)
 		(stroke
 			(width 0)
@@ -3626,7 +3622,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 49.53) (xy 139.7 49.53)
+			(xy 114.3 49.53) (xy 121.92 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3636,7 +3632,17 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 49.53) (xy 132.08 49.53)
+			(xy 219.71 62.23) (xy 232.41 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a1155a9-623f-41de-8732-42947cedb587")
+	)
+	(wire
+		(pts
+			(xy 105.41 49.53) (xy 114.3 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3646,7 +3652,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 30.48) (xy 139.7 31.75)
+			(xy 121.92 30.48) (xy 121.92 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3656,7 +3662,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 62.23) (xy 57.15 62.23)
+			(xy 31.75 62.23) (xy 39.37 62.23)
 		)
 		(stroke
 			(width 0)
@@ -3686,7 +3692,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 44.45) (xy 250.19 44.45)
+			(xy 219.71 54.61) (xy 232.41 54.61)
 		)
 		(stroke
 			(width 0)
@@ -3696,7 +3702,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 26.67) (xy 262.89 26.67)
+			(xy 256.54 36.83) (xy 245.11 36.83)
 		)
 		(stroke
 			(width 0)
@@ -3736,7 +3742,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 29.21) (xy 262.89 29.21)
+			(xy 256.54 39.37) (xy 245.11 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3746,7 +3752,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 49.53) (xy 66.04 49.53)
+			(xy 39.37 49.53) (xy 48.26 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3786,7 +3792,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 46.99) (xy 72.39 46.99)
+			(xy 48.26 46.99) (xy 54.61 46.99)
 		)
 		(stroke
 			(width 0)
@@ -3796,7 +3802,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 46.99) (xy 139.7 49.53)
+			(xy 121.92 46.99) (xy 121.92 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3836,7 +3842,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 46.99) (xy 107.95 46.99)
+			(xy 85.09 46.99) (xy 90.17 46.99)
 		)
 		(stroke
 			(width 0)
@@ -3916,7 +3922,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 62.23) (xy 139.7 71.12)
+			(xy 121.92 62.23) (xy 121.92 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3966,7 +3972,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 49.53) (xy 57.15 49.53)
+			(xy 31.75 49.53) (xy 39.37 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3996,7 +4002,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 57.15) (xy 262.89 57.15)
+			(xy 256.54 67.31) (xy 245.11 67.31)
 		)
 		(stroke
 			(width 0)
@@ -4006,7 +4012,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 41.91) (xy 250.19 41.91)
+			(xy 219.71 52.07) (xy 232.41 52.07)
 		)
 		(stroke
 			(width 0)
@@ -4176,7 +4182,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 45.72) (xy 139.7 46.99)
+			(xy 121.92 45.72) (xy 121.92 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4246,17 +4252,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 29.21) (xy 250.19 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ac3bc712-ccef-48f4-b1a2-f274d55fde32")
-	)
-	(wire
-		(pts
-			(xy 93.98 49.53) (xy 102.87 49.53)
+			(xy 76.2 49.53) (xy 85.09 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4316,7 +4312,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 62.23) (xy 66.04 62.23)
+			(xy 39.37 62.23) (xy 48.26 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4326,7 +4322,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 46.99) (xy 102.87 49.53)
+			(xy 85.09 46.99) (xy 85.09 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4376,7 +4372,7 @@
 	)
 	(wire
 		(pts
-			(xy 274.32 34.29) (xy 262.89 34.29)
+			(xy 256.54 44.45) (xy 245.11 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4396,7 +4392,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 62.23) (xy 102.87 62.23)
+			(xy 76.2 62.23) (xy 85.09 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4416,7 +4412,17 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 44.45) (xy 139.7 45.72)
+			(xy 48.26 142.24) (xy 48.26 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7ca76db-25a3-4d3a-a52e-795c53b830b0")
+	)
+	(wire
+		(pts
+			(xy 121.92 44.45) (xy 121.92 45.72)
 		)
 		(stroke
 			(width 0)
@@ -4476,7 +4482,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 30.48) (xy 102.87 31.75)
+			(xy 85.09 30.48) (xy 85.09 31.75)
 		)
 		(stroke
 			(width 0)
@@ -4486,7 +4492,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 49.53) (xy 93.98 49.53)
+			(xy 67.31 49.53) (xy 76.2 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4506,7 +4512,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 46.99) (xy 250.19 46.99)
+			(xy 219.71 57.15) (xy 232.41 57.15)
 		)
 		(stroke
 			(width 0)
@@ -4516,7 +4522,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 36.83) (xy 250.19 36.83)
+			(xy 219.71 46.99) (xy 232.41 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4576,7 +4582,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 45.72) (xy 102.87 46.99)
+			(xy 85.09 45.72) (xy 85.09 46.99)
 		)
 		(stroke
 			(width 0)
@@ -4606,7 +4612,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 46.99) (xy 66.04 49.53)
+			(xy 48.26 46.99) (xy 48.26 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4626,7 +4632,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 62.23) (xy 139.7 62.23)
+			(xy 114.3 62.23) (xy 121.92 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4676,7 +4682,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 62.23) (xy 132.08 62.23)
+			(xy 105.41 62.23) (xy 114.3 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4747,8 +4753,20 @@
 		(uuid 48c12c10-098f-40c0-8cdd-070f77ea60e5)
 	)
 	(rectangle
-		(start 45.72 22.86)
-		(end 162.56 81.28)
+		(start 148.59 22.86)
+		(end 209.55 81.28)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a20c9684-3173-46f4-b6b0-b6d4c22e7a4e)
+	)
+	(rectangle
+		(start 27.94 22.86)
+		(end 144.78 81.28)
 		(stroke
 			(width 0)
 			(type default)
@@ -4759,8 +4777,8 @@
 		(uuid aa5261e1-b054-4292-a354-944d1a7951d3)
 	)
 	(rectangle
-		(start 231.14 16.51)
-		(end 280.67 67.31)
+		(start 212.09 22.86)
+		(end 264.16 81.28)
 		(stroke
 			(width 0)
 			(type default)
@@ -4771,7 +4789,7 @@
 		(uuid eca727b0-ee1c-4c40-857b-9577cbfccc48)
 	)
 	(label "GND"
-		(at 237.49 29.21 0)
+		(at 220.98 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4804,7 +4822,7 @@
 		(uuid "1a70f731-80f5-4c21-9568-7090bf7d7f3e")
 	)
 	(label "GND"
-		(at 237.49 52.07 0)
+		(at 219.71 62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4815,7 +4833,7 @@
 		(uuid "1f99936f-e743-4bbe-99af-096c2749b68e")
 	)
 	(label "GND"
-		(at 237.49 44.45 0)
+		(at 219.71 54.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4826,7 +4844,7 @@
 		(uuid "244485de-38e8-4583-88ee-3fd3a3d1a612")
 	)
 	(label "BATT"
-		(at 139.7 30.48 0)
+		(at 121.92 30.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4837,7 +4855,7 @@
 		(uuid "297b9b5b-b37b-4c1e-866a-f8af6a98f26f")
 	)
 	(label "PWM Left"
-		(at 274.32 34.29 180)
+		(at 256.54 44.45 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4870,7 +4888,7 @@
 		(uuid "4abefd30-c7b5-4a4f-a359-986f358b0ec6")
 	)
 	(label "3V3"
-		(at 274.32 26.67 180)
+		(at 256.54 36.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4881,7 +4899,7 @@
 		(uuid "4cc9e6fc-9f19-48a5-8df2-60991dded3c0")
 	)
 	(label "BATT"
-		(at 274.32 29.21 180)
+		(at 256.54 39.37 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4892,7 +4910,7 @@
 		(uuid "4fee9f22-022e-4232-90e6-d11ba5c90b09")
 	)
 	(label "BATT"
-		(at 102.87 30.48 0)
+		(at 85.09 30.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4903,7 +4921,7 @@
 		(uuid "513f9a27-67f8-4c60-9220-cac4c6addf05")
 	)
 	(label "BATT"
-		(at 66.04 30.48 0)
+		(at 48.26 30.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4914,7 +4932,7 @@
 		(uuid "582fb9dd-e859-4b3c-89cc-86857b536095")
 	)
 	(label "Signal Left"
-		(at 237.49 31.75 0)
+		(at 219.71 41.91 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4947,7 +4965,7 @@
 		(uuid "770614fd-4a2b-4f07-a28c-ef229af28c9c")
 	)
 	(label "PWM Centre"
-		(at 274.32 44.45 180)
+		(at 256.54 54.61 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4969,7 +4987,7 @@
 		(uuid "7a244808-6c07-4cd6-b9f6-de13cb418313")
 	)
 	(label "BATT"
-		(at 274.32 57.15 180)
+		(at 256.54 67.31 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4980,7 +4998,7 @@
 		(uuid "7ba0de11-a7c3-4e62-a461-df99f3c05e8a")
 	)
 	(label "GND"
-		(at 237.49 36.83 0)
+		(at 219.71 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5002,7 +5020,7 @@
 		(uuid "9b30902d-6d76-4b25-8817-ca88394de952")
 	)
 	(label "Signal Left"
-		(at 72.39 46.99 0)
+		(at 54.61 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5013,7 +5031,7 @@
 		(uuid "9bec3eda-b1ee-4217-9bc6-20818aa0b762")
 	)
 	(label "PWM Right"
-		(at 274.32 52.07 180)
+		(at 256.54 62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5024,7 +5042,7 @@
 		(uuid "ad09d5d6-e738-45d3-b3e9-5669ef868fba")
 	)
 	(label "GND"
-		(at 237.49 59.69 0)
+		(at 219.71 69.85 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5035,7 +5053,7 @@
 		(uuid "b6cd3afd-0719-42d1-a7cb-a05b4e133f82")
 	)
 	(label "Signal Right"
-		(at 147.32 46.99 0)
+		(at 129.54 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5046,7 +5064,7 @@
 		(uuid "bad8b126-2fef-4259-ba0a-aa6cb10ac4a3")
 	)
 	(label "Signal Centre"
-		(at 107.95 46.99 0)
+		(at 90.17 46.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5057,7 +5075,7 @@
 		(uuid "c1aae0b0-eb34-45e7-925c-3853d8a3e652")
 	)
 	(label "Signal Right"
-		(at 237.49 46.99 0)
+		(at 219.71 57.15 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5090,7 +5108,7 @@
 		(uuid "eaf94050-255d-4987-9ff1-b39168a38e7a")
 	)
 	(label "Signal Centre"
-		(at 237.49 41.91 0)
+		(at 219.71 52.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5124,7 +5142,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 93.98 52.07 0)
+		(at 76.2 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5133,7 +5151,7 @@
 		(fields_autoplaced yes)
 		(uuid "00c08349-da01-496e-97e0-4daf5fc322f5")
 		(property "Reference" "R36"
-			(at 96.52 50.7999 0)
+			(at 78.74 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5142,7 +5160,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 96.52 53.3399 0)
+			(at 78.74 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5151,7 +5169,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 93.98 52.07 0)
+			(at 76.2 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5160,7 +5178,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 52.07 0)
+			(at 76.2 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5169,7 +5187,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 93.98 52.07 0)
+			(at 76.2 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5178,7 +5196,7 @@
 			)
 		)
 		(property "LCSC" "C17901"
-			(at 93.98 52.07 0)
+			(at 76.2 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5196,6 +5214,83 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 185.42 63.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "01e3365b-4237-4b2b-8807-d0b3f8fbb9fc")
+		(property "Reference" "R52"
+			(at 185.42 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "8.2k"
+			(at 185.42 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 185.42 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 185.42 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17828"
+			(at 185.42 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1c07fd7c-0f9b-4f76-a8ac-c85b7fdeef44")
+		)
+		(pin "2"
+			(uuid "374f59c2-71e2-4cb3-bbed-d4b212e83ab3")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R52")
 					(unit 1)
 				)
 			)
@@ -5282,6 +5377,83 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
+		(at 157.48 73.66 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "049bcc7c-ad8f-4793-8d92-d00250e44e97")
+		(property "Reference" "R53"
+			(at 157.48 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 157.48 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 157.48 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 157.48 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 157.48 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17902"
+			(at 157.48 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4a448b5f-6fc8-4640-aff0-c353efdb96ce")
+		)
+		(pin "2"
+			(uuid "66cf283d-3740-44bf-90a3-502d3378963c")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R53")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
 		(at 78.74 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5361,7 +5533,7 @@
 	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 93.98 58.42 90)
+		(at 76.2 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5369,7 +5541,7 @@
 		(dnp no)
 		(uuid "06272b19-6419-4265-a4e5-b9b13df772b3")
 		(property "Reference" "JP35"
-			(at 96.52 57.1499 0)
+			(at 78.74 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5378,7 +5550,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 90.678 48.26 0)
+			(at 72.898 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5388,7 +5560,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 93.98 58.42 0)
+			(at 76.2 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5397,7 +5569,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 93.98 58.42 0)
+			(at 76.2 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5406,7 +5578,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 93.98 58.42 0)
+			(at 76.2 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5578,7 +5750,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 57.15 52.07 0)
+		(at 39.37 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5587,7 +5759,7 @@
 		(fields_autoplaced yes)
 		(uuid "08ae5428-daa8-40b1-84e9-65c6312ad04f")
 		(property "Reference" "R34"
-			(at 59.69 50.7999 0)
+			(at 41.91 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5596,7 +5768,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 59.69 53.3399 0)
+			(at 41.91 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5605,7 +5777,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 57.15 52.07 0)
+			(at 39.37 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5614,7 +5786,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 52.07 0)
+			(at 39.37 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5623,7 +5795,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 57.15 52.07 0)
+			(at 39.37 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5632,7 +5804,7 @@
 			)
 		)
 		(property "LCSC" "C17901"
-			(at 57.15 52.07 0)
+			(at 39.37 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5727,9 +5899,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 157.48 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0fb21d7f-5af9-4a51-ba66-4a125213f387")
+		(property "Reference" "R40"
+			(at 157.48 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "8.2k"
+			(at 157.48 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 157.48 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 157.48 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 157.48 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17828"
+			(at 157.48 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9d86cc4c-ebf5-45b2-a398-6d4146c05259")
+		)
+		(pin "2"
+			(uuid "fc4f5906-acbe-4a6a-ac9a-26d258c4e68e")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 139.7 58.42 90)
+		(at 121.92 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5737,7 +5986,7 @@
 		(dnp no)
 		(uuid "10ebff94-5fe9-4132-901f-5d43f3e216a3")
 		(property "Reference" "JP37"
-			(at 142.24 57.1499 0)
+			(at 124.46 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5746,7 +5995,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 136.398 48.26 0)
+			(at 118.618 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5756,7 +6005,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 139.7 58.42 0)
+			(at 121.92 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5765,7 +6014,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 58.42 0)
+			(at 121.92 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5774,7 +6023,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 139.7 58.42 0)
+			(at 121.92 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5881,7 +6130,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 49.53 52.07 0)
+		(at 31.75 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5889,7 +6138,7 @@
 		(dnp no)
 		(uuid "128be6fb-a370-4a55-9146-129f5ed94865")
 		(property "Reference" "R35"
-			(at 52.07 50.7999 0)
+			(at 34.29 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5898,7 +6147,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 52.07 53.3399 0)
+			(at 34.29 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5907,7 +6156,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 49.53 52.07 0)
+			(at 31.75 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5916,7 +6165,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 52.07 0)
+			(at 31.75 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5925,7 +6174,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 49.53 52.07 0)
+			(at 31.75 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5934,7 +6183,7 @@
 			)
 		)
 		(property "LCSC" "C4410"
-			(at 49.53 52.07 0)
+			(at 31.75 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5952,6 +6201,206 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "R35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "BPV22NF:BPV22NF")
+		(at 157.48 35.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "133b24ba-f879-489e-b473-e8c66fedfe54")
+		(property "Reference" "D10"
+			(at 160.02 32.3976 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BPV22NF"
+			(at 160.02 34.9376 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "BPV22NF:XDCR_BPV22NF"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay Semiconductor"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "8.90mm"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "Radial Vishay"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.9"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "BPV22NF"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "\nPhotodiode 940nm - 120° Radial, Side View\n"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Vishay"
+			(at 157.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C130226"
+			(at 157.48 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "K"
+			(uuid "5f26633a-2de9-463b-b0a7-b41414a5f277")
+		)
+		(pin "A"
+			(uuid "b62c1d3e-87fd-4d3e-abb8-734b40741a1f")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -6184,7 +6633,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 102.87 52.07 0)
+		(at 85.09 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6193,7 +6642,7 @@
 		(fields_autoplaced yes)
 		(uuid "1c3aa0ad-a2d9-4c9e-8cae-daea67139be8")
 		(property "Reference" "R32"
-			(at 105.41 50.7999 0)
+			(at 87.63 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6202,7 +6651,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 105.41 53.3399 0)
+			(at 87.63 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6211,7 +6660,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 102.87 52.07 0)
+			(at 85.09 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6220,7 +6669,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 52.07 0)
+			(at 85.09 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6229,7 +6678,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 102.87 52.07 0)
+			(at 85.09 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6238,7 +6687,7 @@
 			)
 		)
 		(property "LCSC" "C17901"
-			(at 102.87 52.07 0)
+			(at 85.09 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6256,6 +6705,83 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "R32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 172.72 73.66 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e2d1940-e82a-42eb-8a1c-bceb68ae3140")
+		(property "Reference" "R55"
+			(at 172.72 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47"
+			(at 172.72 71.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 172.72 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 172.72 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17714"
+			(at 172.72 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3320655b-11bd-4b0b-b4a9-caf25f9526d7")
+		)
+		(pin "2"
+			(uuid "ee9a3e29-d5ca-4f03-88cb-b7a968b74f54")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -6343,7 +6869,7 @@
 	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 132.08 58.42 90)
+		(at 114.3 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6351,7 +6877,7 @@
 		(dnp no)
 		(uuid "1f9ad335-42c3-4b82-938e-7a8704bfc11d")
 		(property "Reference" "JP38"
-			(at 134.62 57.1499 0)
+			(at 116.84 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6360,7 +6886,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 128.778 48.26 0)
+			(at 110.998 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6370,7 +6896,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 132.08 58.42 0)
+			(at 114.3 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6379,7 +6905,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 132.08 58.42 0)
+			(at 114.3 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6388,7 +6914,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 132.08 58.42 0)
+			(at 114.3 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6484,7 +7010,7 @@
 	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 123.19 58.42 90)
+		(at 105.41 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6492,7 +7018,7 @@
 		(dnp no)
 		(uuid "20d432cd-e326-4bae-86fe-22bbedc749c1")
 		(property "Reference" "JP39"
-			(at 125.73 57.1499 0)
+			(at 107.95 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6501,7 +7027,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 119.888 48.26 0)
+			(at 102.108 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6511,7 +7037,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 123.19 58.42 0)
+			(at 105.41 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6520,7 +7046,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 123.19 58.42 0)
+			(at 105.41 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6529,7 +7055,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 123.19 58.42 0)
+			(at 105.41 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6708,7 +7234,7 @@
 	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 102.87 58.42 90)
+		(at 85.09 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6716,7 +7242,7 @@
 		(dnp no)
 		(uuid "26275ef0-cb7a-42e4-b880-d8a9cb0146cc")
 		(property "Reference" "JP36"
-			(at 105.41 57.1499 0)
+			(at 87.63 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6725,7 +7251,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 99.568 48.26 0)
+			(at 81.788 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6735,7 +7261,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 102.87 58.42 0)
+			(at 85.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6744,7 +7270,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 58.42 0)
+			(at 85.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6753,7 +7279,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 102.87 58.42 0)
+			(at 85.09 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6931,7 +7457,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 139.7 71.12 0)
+		(at 121.92 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6940,7 +7466,7 @@
 		(fields_autoplaced yes)
 		(uuid "2983e422-311e-4a0f-a2ef-e975521faf46")
 		(property "Reference" "#PWR01"
-			(at 139.7 77.47 0)
+			(at 121.92 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6949,7 +7475,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 139.7 76.2 0)
+			(at 121.92 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6957,7 +7483,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 139.7 71.12 0)
+			(at 121.92 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6966,7 +7492,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 71.12 0)
+			(at 121.92 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6975,7 +7501,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 139.7 71.12 0)
+			(at 121.92 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7132,6 +7658,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 219.71 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "33aca940-59f5-4e4d-9a07-1743c100935c")
+		(property "Reference" "#PWR011"
+			(at 219.71 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 220.98 65.786 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 219.71 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 219.71 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 219.71 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "61443e0f-82fc-4fe5-9f90-ee250c630560")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 125.73 105.41 90)
 		(unit 1)
@@ -7202,8 +7794,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 172.72 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a0af042-8f32-4986-bbc6-a19833361337")
+		(property "Reference" "R42"
+			(at 172.72 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100"
+			(at 172.72 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 172.72 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 172.72 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17901"
+			(at 172.72 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a25ceee2-f586-48d8-a5f6-37701de38f16")
+		)
+		(pin "2"
+			(uuid "9887ccdc-3a73-46bb-b29b-aae0d27a776c")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 102.87 71.12 0)
+		(at 85.09 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7212,7 +7881,7 @@
 		(fields_autoplaced yes)
 		(uuid "3a904cb6-71ac-4be6-8c3e-61c46616c4ec")
 		(property "Reference" "#PWR03"
-			(at 102.87 77.47 0)
+			(at 85.09 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7221,7 +7890,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 102.87 76.2 0)
+			(at 85.09 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7229,7 +7898,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 102.87 71.12 0)
+			(at 85.09 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7238,7 +7907,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 71.12 0)
+			(at 85.09 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7247,7 +7916,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 102.87 71.12 0)
+			(at 85.09 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7339,7 +8008,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 132.08 52.07 0)
+		(at 114.3 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7348,7 +8017,7 @@
 		(fields_autoplaced yes)
 		(uuid "468ffbcf-5256-4829-bc57-ad836103f991")
 		(property "Reference" "R38"
-			(at 134.62 50.7999 0)
+			(at 116.84 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7357,7 +8026,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 134.62 53.3399 0)
+			(at 116.84 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7366,7 +8035,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 132.08 52.07 0)
+			(at 114.3 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7375,7 +8044,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 132.08 52.07 0)
+			(at 114.3 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7384,7 +8053,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 132.08 52.07 0)
+			(at 114.3 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7393,7 +8062,7 @@
 			)
 		)
 		(property "LCSC" "C17901"
-			(at 132.08 52.07 0)
+			(at 114.3 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7418,31 +8087,34 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 66.04 45.72 90)
+		(at 48.26 130.81 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "4d8d1b31-8507-4d4c-b75e-a14921cd2bef")
-		(property "Reference" "TP1"
-			(at 57.658 42.164 90)
+		(uuid "494a7ed6-fce5-4fe1-9896-eaf9235be2a8")
+		(property "Reference" "TP8"
+			(at 57.15 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 57.404 44.45 90)
+			(at 54.102 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
-			(at 66.04 40.64 0)
+			(at 48.26 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7451,7 +8123,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 40.64 0)
+			(at 48.26 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7460,7 +8132,71 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 66.04 45.72 0)
+			(at 48.26 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "af94a012-f959-4129-8372-ecb60e0f21ec")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "TP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 48.26 45.72 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4d8d1b31-8507-4d4c-b75e-a14921cd2bef")
+		(property "Reference" "TP1"
+			(at 39.878 42.164 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 39.624 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 48.26 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 48.26 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7541,6 +8277,87 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Q_NPN_BEC")
+		(at 172.72 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4e84e3f1-7c14-459f-8ba7-7245ac9df12d")
+		(property "Reference" "Q7"
+			(at 177.8 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SS8050"
+			(at 169.418 40.132 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+			(at 177.8 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "NPN transistor, base/emitter/collector"
+			(at 172.72 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2150"
+			(at 172.72 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "8c45a20f-3ba4-4334-973f-1d4911d09825")
+		)
+		(pin "1"
+			(uuid "e0103579-f367-463a-8868-bf16b8234e68")
+		)
+		(pin "2"
+			(uuid "006c440b-b380-4314-9046-f66e386501b9")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "Q7")
 					(unit 1)
 				)
 			)
@@ -7698,7 +8515,7 @@
 	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 49.53 58.42 90)
+		(at 31.75 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7706,7 +8523,7 @@
 		(dnp no)
 		(uuid "50d3ec4f-9bdb-400b-86a6-4508cb3be3e2")
 		(property "Reference" "JP31"
-			(at 52.07 57.1499 0)
+			(at 34.29 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7715,7 +8532,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 46.228 48.26 0)
+			(at 28.448 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7725,7 +8542,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 49.53 58.42 0)
+			(at 31.75 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7734,7 +8551,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 49.53 58.42 0)
+			(at 31.75 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7743,7 +8560,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 49.53 58.42 0)
+			(at 31.75 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7910,6 +8727,83 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "JP8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 172.72 62.23 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5875f76c-9a2e-491b-aa4a-a880172d5c8b")
+		(property "Reference" "R43"
+			(at 172.72 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47"
+			(at 172.72 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 172.72 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 172.72 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 172.72 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17714"
+			(at 172.72 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0bc273ee-f9b7-450e-b539-78a785e7f390")
+		)
+		(pin "2"
+			(uuid "8bd0efb3-bd78-4469-976b-e38bb069d96b")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -8201,6 +9095,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 48.26 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5f1fc43f-f1c9-49e1-bbaa-d4e8c21f5584")
+		(property "Reference" "#PWR02"
+			(at 48.26 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 48.26 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3f9fb260-579e-4282-a83c-0833f5ff55e1")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 35.56 105.41 90)
 		(unit 1)
@@ -8265,6 +9225,83 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "JP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 185.42 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "62f41b20-1a50-46a8-8fab-ea8602bd918e")
+		(property "Reference" "R48"
+			(at 185.42 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "8.2k"
+			(at 185.42 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 185.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 185.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17828"
+			(at 185.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3066af33-517b-4ffd-8ca2-4b2f8b60a381")
+		)
+		(pin "2"
+			(uuid "73a43a51-4ff9-4943-b211-85f19a604085")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R48")
 					(unit 1)
 				)
 			)
@@ -8342,7 +9379,7 @@
 	)
 	(symbol
 		(lib_id "BPV22NF:BPV22NF")
-		(at 102.87 39.37 90)
+		(at 85.09 39.37 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8351,7 +9388,7 @@
 		(fields_autoplaced yes)
 		(uuid "63f31428-a7fc-4e8a-ad35-1c6b3eaaffd8")
 		(property "Reference" "D3"
-			(at 105.41 36.2076 90)
+			(at 87.63 36.2076 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8360,7 +9397,7 @@
 			)
 		)
 		(property "Value" "BPV22NF"
-			(at 105.41 38.7476 90)
+			(at 87.63 38.7476 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8369,7 +9406,7 @@
 			)
 		)
 		(property "Footprint" "BPV22NF:XDCR_BPV22NF"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8379,7 +9416,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8388,7 +9425,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8397,7 +9434,7 @@
 			)
 		)
 		(property "MF" "Vishay Semiconductor"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8407,7 +9444,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "8.90mm"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8417,7 +9454,7 @@
 			)
 		)
 		(property "Package" "Radial Vishay"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8427,7 +9464,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8437,7 +9474,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8447,7 +9484,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8457,7 +9494,7 @@
 			)
 		)
 		(property "PARTREV" "1.9"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8467,7 +9504,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8477,7 +9514,7 @@
 			)
 		)
 		(property "MP" "BPV22NF"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8487,7 +9524,7 @@
 			)
 		)
 		(property "Description_1" "\nPhotodiode 940nm - 120° Radial, Side View\n"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8497,7 +9534,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8507,7 +9544,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Vishay"
-			(at 102.87 39.37 0)
+			(at 85.09 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8517,7 +9554,7 @@
 			)
 		)
 		(property "LCSC" "C130226"
-			(at 102.87 39.37 90)
+			(at 85.09 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8716,7 +9753,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SFH_4544:DIO_SFH_4544"
+		(property "Footprint" "SFH_4544:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack_JLCPCB"
 			(at 269.24 125.73 0)
 			(effects
 				(font
@@ -9174,16 +10211,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 48.26 146.05 0)
+		(at 219.71 39.37 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "75ada037-f53a-4fba-8030-2cfef986ddfb")
-		(property "Reference" "#PWR02"
-			(at 48.26 152.4 0)
+		(uuid "6fe40464-659a-42ea-ae5d-fe0129a8095b")
+		(property "Reference" "#PWR013"
+			(at 219.71 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9192,15 +10229,16 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 48.26 151.13 0)
+			(at 219.71 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 146.05 0)
+			(at 219.71 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9209,7 +10247,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 146.05 0)
+			(at 219.71 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9218,7 +10256,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 48.26 146.05 0)
+			(at 219.71 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9227,47 +10265,47 @@
 			)
 		)
 		(pin "1"
-			(uuid "8542a3d1-427b-4eda-aa6c-42f6821b49a1")
+			(uuid "026f4a31-0466-4dd8-974b-3c21c68dc592")
 		)
 		(instances
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
-					(reference "#PWR02")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 139.7 52.07 0)
+		(lib_id "Connector:TestPoint")
+		(at 40.64 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7af4d191-82d2-4c65-b9c2-095f59caf145")
-		(property "Reference" "R33"
-			(at 142.24 50.7999 0)
+		(uuid "721654d1-457f-4db9-b697-793c98988785")
+		(property "Reference" "TP10"
+			(at 42.926 131.064 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "100"
-			(at 142.24 53.3399 0)
+		(property "Value" "TestPoint"
+			(at 48.26 131.318 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 139.7 52.07 0)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 45.72 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9276,7 +10314,74 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 52.07 0)
+			(at 45.72 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 40.64 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b42ad94e-0581-4190-ae59-d655c75649f1")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "TP10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 121.92 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7af4d191-82d2-4c65-b9c2-095f59caf145")
+		(property "Reference" "R33"
+			(at 124.46 50.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100"
+			(at 124.46 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 121.92 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9285,7 +10390,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 139.7 52.07 0)
+			(at 121.92 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9294,7 +10399,7 @@
 			)
 		)
 		(property "LCSC" "C17901"
-			(at 139.7 52.07 0)
+			(at 121.92 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9319,7 +10424,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 102.87 45.72 90)
+		(at 85.09 45.72 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9327,7 +10432,7 @@
 		(dnp no)
 		(uuid "7b479d3d-4ba2-46d3-8521-ab516af4379d")
 		(property "Reference" "TP2"
-			(at 94.996 41.148 90)
+			(at 77.216 41.148 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9335,7 +10440,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 94.996 43.688 90)
+			(at 77.216 43.688 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9343,7 +10448,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
-			(at 102.87 40.64 0)
+			(at 85.09 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9352,7 +10457,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 102.87 40.64 0)
+			(at 85.09 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9361,7 +10466,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 102.87 45.72 0)
+			(at 85.09 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9383,7 +10488,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 123.19 52.07 0)
+		(at 105.41 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9392,7 +10497,7 @@
 		(fields_autoplaced yes)
 		(uuid "7ba35c05-2327-4623-b4ee-75877c7bdef6")
 		(property "Reference" "R39"
-			(at 125.73 50.7999 0)
+			(at 107.95 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9401,7 +10506,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 125.73 53.3399 0)
+			(at 107.95 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9410,7 +10515,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 123.19 52.07 0)
+			(at 105.41 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9419,7 +10524,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 123.19 52.07 0)
+			(at 105.41 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9428,7 +10533,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 123.19 52.07 0)
+			(at 105.41 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9437,7 +10542,7 @@
 			)
 		)
 		(property "LCSC" "C4410"
-			(at 123.19 52.07 0)
+			(at 105.41 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9462,7 +10567,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 66.04 52.07 0)
+		(at 48.26 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9471,7 +10576,7 @@
 		(fields_autoplaced yes)
 		(uuid "7ceb9e75-3fdc-485c-ad8e-e799b3fa2b24")
 		(property "Reference" "R31"
-			(at 68.58 50.7999 0)
+			(at 50.8 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9480,7 +10585,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 68.58 53.3399 0)
+			(at 50.8 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9489,7 +10594,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 66.04 52.07 0)
+			(at 48.26 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9498,7 +10603,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 52.07 0)
+			(at 48.26 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9507,7 +10612,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 66.04 52.07 0)
+			(at 48.26 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9516,7 +10621,7 @@
 			)
 		)
 		(property "LCSC" "C17901"
-			(at 66.04 52.07 0)
+			(at 48.26 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9600,6 +10705,160 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 200.66 62.23 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8100d3e4-7c5b-4450-ab81-cd907b399bcd")
+		(property "Reference" "R51"
+			(at 200.66 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47"
+			(at 200.66 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 200.66 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 200.66 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17714"
+			(at 200.66 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2284f1d8-fe3a-4f10-ac7e-dd7ec8680b6c")
+		)
+		(pin "2"
+			(uuid "ec7d2335-3635-4207-80fe-a7f446f8d0bf")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 185.42 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "81f89d18-dba6-4bac-b3af-3aa6acd69543")
+		(property "Reference" "R44"
+			(at 185.42 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "8.2k"
+			(at 185.42 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 185.42 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 185.42 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17828"
+			(at 185.42 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "914e11a5-bcfe-4dbc-9c47-8994b9dd4827")
+		)
+		(pin "2"
+			(uuid "e218915f-f517-49ee-98f4-ef569918ca1e")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -9699,7 +10958,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SFH_4544:DIO_SFH_4544"
+		(property "Footprint" "SFH_4544:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack_JLCPCB"
 			(at 182.88 125.73 0)
 			(effects
 				(font
@@ -9856,6 +11115,295 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 219.71 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "86702650-d3c3-4d86-b429-f94a86f5578b")
+		(property "Reference" "#PWR012"
+			(at 219.71 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 219.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 219.71 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 219.71 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 219.71 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "41929060-58d4-4840-adc8-6f9862ddc8d6")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 200.66 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8732c2c9-65d1-4f10-8ae1-c244bb70cf1d")
+		(property "Reference" "R50"
+			(at 200.66 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100"
+			(at 200.66 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 200.66 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 200.66 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17901"
+			(at 200.66 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab7222ce-ea45-478b-9113-80f2d624dff5")
+		)
+		(pin "2"
+			(uuid "d859a2c2-3fde-4b20-9fc4-0b2632febe65")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 185.42 41.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "87fe9e02-8296-4e0b-9fbb-36fc92515218")
+		(property "Reference" "R54"
+			(at 185.42 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100"
+			(at 185.42 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 185.42 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 185.42 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17901"
+			(at 185.42 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ace6a1cd-4826-4c96-8a22-0168a453c675")
+		)
+		(pin "2"
+			(uuid "82190bc3-f957-4efd-a368-313ab00cad07")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R54")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 219.71 54.61 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8fa65f49-2e4d-4f91-bd5a-f7437dfc4259")
+		(property "Reference" "#PWR014"
+			(at 213.36 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 215.9 54.6099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 219.71 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 219.71 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 219.71 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ac10f215-0597-457f-a5a0-61e4d6c13f7a")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -10067,7 +11615,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 85.09 52.07 0)
+		(at 67.31 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10075,7 +11623,7 @@
 		(dnp no)
 		(uuid "95817334-905b-4468-897b-d4a7ed0269b6")
 		(property "Reference" "R37"
-			(at 87.63 50.7999 0)
+			(at 69.85 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10084,7 +11632,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 87.63 53.3399 0)
+			(at 69.85 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10093,7 +11641,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
-			(at 85.09 52.07 0)
+			(at 67.31 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10102,7 +11650,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 85.09 52.07 0)
+			(at 67.31 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10111,7 +11659,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 85.09 52.07 0)
+			(at 67.31 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10120,7 +11668,7 @@
 			)
 		)
 		(property "LCSC" "C4410"
-			(at 85.09 52.07 0)
+			(at 67.31 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10443,6 +11991,83 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 200.66 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9f70d388-0249-4ab2-8b51-d4c327cfc705")
+		(property "Reference" "R46"
+			(at 200.66 26.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100"
+			(at 200.66 29.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 200.66 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 200.66 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17901"
+			(at 200.66 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f9c3d2c2-978b-4549-bad1-c8a3ebcc7581")
+		)
+		(pin "2"
+			(uuid "bb1ec5ad-7d88-4db3-a5c2-b616cec91c85")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SFH_4544:SFH_4544")
 		(at 48.26 125.73 270)
 		(unit 1)
@@ -10450,7 +12075,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a1125e3f-eee5-4160-bb5e-12b5dba22ad3")
 		(property "Reference" "D1"
 			(at 53.34 123.2286 90)
@@ -10470,7 +12094,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SFH_4544:DIO_SFH_4544"
+		(property "Footprint" "SFH_4544:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack_JLCPCB"
 			(at 48.26 125.73 0)
 			(effects
 				(font
@@ -10627,6 +12251,73 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 219.71 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a1b9c687-4b02-4924-a565-4edf69ce91c1")
+		(property "Reference" "#PWR010"
+			(at 219.71 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 219.71 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 219.71 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 219.71 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 219.71 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "54fa2434-7a65-44e7-a4a2-fee8e355c270")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -10821,7 +12512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SFH_4544:DIO_SFH_4544"
+		(property "Footprint" "SFH_4544:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack_JLCPCB"
 			(at 226.06 125.73 0)
 			(effects
 				(font
@@ -11343,7 +13034,7 @@
 	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 66.04 58.42 90)
+		(at 48.26 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11351,7 +13042,7 @@
 		(dnp no)
 		(uuid "b710c6f1-90fa-49a5-b858-2c1d8a8ad4ba")
 		(property "Reference" "JP33"
-			(at 69.088 57.15 0)
+			(at 51.308 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11360,7 +13051,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 62.738 48.26 0)
+			(at 44.958 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11370,7 +13061,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 66.04 58.42 0)
+			(at 48.26 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11379,7 +13070,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 66.04 58.42 0)
+			(at 48.26 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11388,7 +13079,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 66.04 58.42 0)
+			(at 48.26 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11505,7 +13196,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SFH_4544:DIO_SFH_4544"
+		(property "Footprint" "SFH_4544:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack_JLCPCB"
 			(at 91.44 125.73 0)
 			(effects
 				(font
@@ -11746,7 +13437,7 @@
 	)
 	(symbol
 		(lib_id "BPV22NF:BPV22NF")
-		(at 139.7 39.37 90)
+		(at 121.92 39.37 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11755,7 +13446,7 @@
 		(fields_autoplaced yes)
 		(uuid "bc17dfe4-f526-4588-90bd-6bb6bc991bca")
 		(property "Reference" "D2"
-			(at 142.24 36.2076 90)
+			(at 124.46 36.2076 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11764,7 +13455,7 @@
 			)
 		)
 		(property "Value" "BPV22NF"
-			(at 142.24 38.7476 90)
+			(at 124.46 38.7476 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11773,7 +13464,7 @@
 			)
 		)
 		(property "Footprint" "BPV22NF:XDCR_BPV22NF"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11783,7 +13474,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11792,7 +13483,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11801,7 +13492,7 @@
 			)
 		)
 		(property "MF" "Vishay Semiconductor"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11811,7 +13502,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "8.90mm"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11821,7 +13512,7 @@
 			)
 		)
 		(property "Package" "Radial Vishay"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11831,7 +13522,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11841,7 +13532,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11851,7 +13542,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11861,7 +13552,7 @@
 			)
 		)
 		(property "PARTREV" "1.9"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11871,7 +13562,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11881,7 +13572,7 @@
 			)
 		)
 		(property "MP" "BPV22NF"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11891,7 +13582,7 @@
 			)
 		)
 		(property "Description_1" "\nPhotodiode 940nm - 120° Radial, Side View\n"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11901,7 +13592,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11911,7 +13602,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Vishay"
-			(at 139.7 39.37 0)
+			(at 121.92 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11921,7 +13612,7 @@
 			)
 		)
 		(property "LCSC" "C130226"
-			(at 139.7 39.37 90)
+			(at 121.92 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11939,6 +13630,83 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 157.48 62.23 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bf57c178-e26d-4020-8395-1d244b6f64de")
+		(property "Reference" "R41"
+			(at 157.48 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 157.48 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
+			(at 157.48 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 157.48 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 157.48 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17902"
+			(at 157.48 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bc8ce244-0926-4248-9c4d-5351a5cb5ff8")
+		)
+		(pin "2"
+			(uuid "273f3d89-7496-4a0e-b600-83dc3b87c6bf")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -12028,7 +13796,7 @@
 	)
 	(symbol
 		(lib_id "BPV22NF:BPV22NF")
-		(at 66.04 40.64 90)
+		(at 48.26 40.64 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12037,7 +13805,7 @@
 		(fields_autoplaced yes)
 		(uuid "c86f14e9-3b5c-42ad-b089-19fad9cfdd67")
 		(property "Reference" "D4"
-			(at 68.58 37.4776 90)
+			(at 50.8 37.4776 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12046,7 +13814,7 @@
 			)
 		)
 		(property "Value" "BPV22NF"
-			(at 68.58 40.0176 90)
+			(at 50.8 40.0176 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12055,7 +13823,7 @@
 			)
 		)
 		(property "Footprint" "BPV22NF:XDCR_BPV22NF"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12065,7 +13833,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12074,7 +13842,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12083,7 +13851,7 @@
 			)
 		)
 		(property "MF" "Vishay Semiconductor"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12093,7 +13861,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "8.90mm"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12103,7 +13871,7 @@
 			)
 		)
 		(property "Package" "Radial Vishay"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12113,7 +13881,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12123,7 +13891,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12133,7 +13901,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12143,7 +13911,7 @@
 			)
 		)
 		(property "PARTREV" "1.9"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12153,7 +13921,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/BPV22NF/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12163,7 +13931,7 @@
 			)
 		)
 		(property "MP" "BPV22NF"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12173,7 +13941,7 @@
 			)
 		)
 		(property "Description_1" "\nPhotodiode 940nm - 120° Radial, Side View\n"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12183,7 +13951,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12193,7 +13961,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Vishay"
-			(at 66.04 40.64 0)
+			(at 48.26 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12203,7 +13971,7 @@
 			)
 		)
 		(property "LCSC" "C130226"
-			(at 66.04 40.64 90)
+			(at 48.26 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12229,7 +13997,7 @@
 	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 57.15 58.42 90)
+		(at 39.37 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12237,7 +14005,7 @@
 		(dnp no)
 		(uuid "cd72f665-0670-4d84-b24e-79a4c8a99b3c")
 		(property "Reference" "JP32"
-			(at 59.69 57.1499 0)
+			(at 41.91 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12246,7 +14014,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 53.848 48.26 0)
+			(at 36.068 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12256,7 +14024,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 57.15 58.42 0)
+			(at 39.37 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12265,7 +14033,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 57.15 58.42 0)
+			(at 39.37 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12274,7 +14042,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 57.15 58.42 0)
+			(at 39.37 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12458,7 +14226,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 66.04 71.12 0)
+		(at 48.26 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12467,7 +14235,7 @@
 		(fields_autoplaced yes)
 		(uuid "d7a7d079-a248-461d-923c-039c846d51e4")
 		(property "Reference" "#PWR04"
-			(at 66.04 77.47 0)
+			(at 48.26 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12476,7 +14244,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 66.04 76.2 0)
+			(at 48.26 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12484,7 +14252,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 66.04 71.12 0)
+			(at 48.26 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12493,7 +14261,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 71.12 0)
+			(at 48.26 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12502,7 +14270,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 66.04 71.12 0)
+			(at 48.26 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12758,6 +14526,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 48.26 118.11 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "de283746-1985-48bd-8841-deff5842e82d")
+		(property "Reference" "TP11"
+			(at 57.912 118.618 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 54.102 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 48.26 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 48.26 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "40a4b25e-dd7e-48e3-82b4-771ac8eda907")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "TP11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 165.1 137.16 180)
 		(unit 1)
@@ -12977,7 +14812,7 @@
 	(symbol
 		(lib_name "SolderJumper_2_Open_1")
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 85.09 58.42 90)
+		(at 67.31 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12985,7 +14820,7 @@
 		(dnp no)
 		(uuid "e1f25de4-7533-468a-a47c-d48a1847c92e")
 		(property "Reference" "JP34"
-			(at 87.63 57.1499 0)
+			(at 69.85 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12994,7 +14829,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 81.788 48.26 0)
+			(at 64.008 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13004,7 +14839,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 85.09 58.42 0)
+			(at 67.31 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13013,7 +14848,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 85.09 58.42 0)
+			(at 67.31 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13022,7 +14857,7 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 85.09 58.42 0)
+			(at 67.31 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13204,7 +15039,7 @@
 		(dnp no)
 		(uuid "e4d5df90-22aa-4d26-9e3d-14a5a311cc3f")
 		(property "Reference" "TP4"
-			(at 19.304 140.462 0)
+			(at 22.098 143.002 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13219,6 +15054,7 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
@@ -13288,7 +15124,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SFH_4544:DIO_SFH_4544"
+		(property "Footprint" "SFH_4544:LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack_JLCPCB"
 			(at 138.43 125.73 0)
 			(effects
 				(font
@@ -13452,7 +15288,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x14_Odd_Even")
-		(at 255.27 41.91 0)
+		(at 237.49 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13461,7 +15297,7 @@
 		(fields_autoplaced yes)
 		(uuid "e70682b9-ddee-4ccb-82f2-3d4ff78ce962")
 		(property "Reference" "J1"
-			(at 256.54 20.32 0)
+			(at 238.76 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13469,7 +15305,7 @@
 			)
 		)
 		(property "Value" "Conn_02x14_Odd_Even"
-			(at 256.54 22.86 0)
+			(at 238.76 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13477,7 +15313,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x14_P2.54mm_Vertical"
-			(at 255.27 41.91 0)
+			(at 237.49 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13486,7 +15322,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 255.27 41.91 0)
+			(at 237.49 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13495,7 +15331,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x14, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 255.27 41.91 0)
+			(at 237.49 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13756,7 +15592,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 139.7 45.72 90)
+		(at 121.92 45.72 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13764,7 +15600,7 @@
 		(dnp no)
 		(uuid "e8d93716-9fde-43d3-a1e3-7581a5969378")
 		(property "Reference" "TP3"
-			(at 131.826 41.148 90)
+			(at 114.046 41.148 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13772,7 +15608,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 131.572 43.434 90)
+			(at 113.792 43.434 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13780,7 +15616,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
-			(at 139.7 40.64 0)
+			(at 121.92 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13789,7 +15625,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 40.64 0)
+			(at 121.92 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13798,7 +15634,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 139.7 45.72 0)
+			(at 121.92 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14195,6 +16031,83 @@
 			(project "SensorKiCad-RTHMAT004"
 				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
 					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 200.66 41.91 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f670a155-66c9-41e7-9034-34fdb2742ad9")
+		(property "Reference" "R47"
+			(at 200.66 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47"
+			(at 200.66 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17714"
+			(at 200.66 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2f72e48c-5dec-4da9-96bd-1bfb36ccfe6f")
+		)
+		(pin "2"
+			(uuid "31ef9cb5-49fb-4c57-93ae-cdae4741eb67")
+		)
+		(instances
+			(project "SensorKiCad-RTHMAT004"
+				(path "/c05e1c56-18bc-4f90-8ce8-a924fef2dce9"
+					(reference "R47")
 					(unit 1)
 				)
 			)
