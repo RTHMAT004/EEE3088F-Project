@@ -3,7 +3,7 @@ Power and Sensing repository for the EEE3088F Project. Group 24: RTHMAT004 and C
 
 This repository contains files for both the sensing and power subsystems of a micromouse for a university project. This project involved developing a micromouse, therefore these solutions are built with existing systems in mind (microcontroller, servo motors etc). 
 
-The power system deals with.... 
+The power system deals with powering the two motors of the Micromouse, managing the charging of the battery and turning the Micromouse on and off.
 
 The sensing system deals with surface detection around the micromouse, inevitabely helping the micromouse navigate. The sensor does not make decisions of movement, or deal with any power control, it's only purpose is to detect objects and returning results using a voltage output signal. 
 
